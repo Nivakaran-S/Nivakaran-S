@@ -72,8 +72,8 @@ A smart assistant that understands your queries, responds with natural language,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NivakaranS&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NivakaranS&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sliitguy&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sliitguy&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
