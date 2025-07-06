@@ -14,7 +14,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm **Nivakaran**, a third-year undergraduate at **SLIIT**, pursuing a B.Sc (Hons) in Information Technology with a specialization in **Data Science**.
+I'm **Nivakaran**, a third-year undergraduate at **SLIIT**, pursuing a B.Sc (Hons) in Information Technology.
 
 🚀 I love exploring the intersection of **AI, data, and scalable software**. Whether it’s building a smart assistant, deploying a custom ML model, or automating real-world problems, I’m always up for the challenge.
 
