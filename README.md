@@ -85,7 +85,7 @@ A voice-driven AI companion with NLP and automation powers, inspired by sci-fi l
 
 ---
 
-## 🤝 Join the Cosmic Quest  
+## 🤝 Join the Cosmic Journey  
 
 🌟 **Seeking**:  
 - **AI/ML** or **Full-Stack** adventures (internships/full-time)  
@@ -115,5 +115,5 @@ A voice-driven AI companion with NLP and automation powers, inspired by sci-fi l
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=FF3CAC&height=120&section=footer&text=Blast%20Off%20to%20Innovation!&fontSize=30&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Explore%20the%20Cosmos!&fontSize=30&fontAlignY=40"/>
 </p>
