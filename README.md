@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nivakaran-S&style=plastic&color=FF3CAC&label=Stargazers" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzCasrR7vV5H/giphy.gif" width="200" alt="Nebula Animation"/>
-</p>
-
 ---
 
 ## 🌌 The Cosmic Coder  
@@ -57,10 +53,6 @@ A **React Native** B2B platform for grocery wholesalers, featuring MOQ pricing, 
 A voice-driven AI companion with NLP and automation powers, inspired by sci-fi legends.  
 > **Tech**: TensorFlow, Speech-to-Text, Python  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOJvk3bVJu/giphy.gif" width="220" alt="Project Animation"/>
-</p>
-
 ---
 
 ## 🌌 Charting New Galaxies  
@@ -94,8 +86,8 @@ A voice-driven AI companion with NLP and automation powers, inspired by sci-fi l
 
 📡 **Connect**:  
 - **Email**: [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com)  
-- **LinkedIn**: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaranS)  
-- **GitHub**: [github.com/NivakaranS](https://github.com/NivakaranS)  
+- **LinkedIn**: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaran)  
+- **GitHub**: [github.com/Nivakaran-S](https://github.com/Nivakaran-S)  
 - **Portfolio**: [nivakaran.dev](https://nivakaran.dev)  
 
 <p align="center">
