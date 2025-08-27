@@ -1,24 +1,41 @@
 # 🌠 Nivakaran's Code Nebula  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=Igniting+AI+Revolutions;Crafting+Code+that+Shapes+Tomorrow" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+AI+Developer;Crafting+Intelligent+Solutions;From+Healthcare+to+Tech" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NivakaranS"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=plastic&logo=github&logoColor=FF3CAC&labelColor=000"/></a>
-  <a href="https://linkedin.com/in/nivakaranS"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=FF3CAC&labelColor=000"/></a>
+  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=plastic&logo=github&logoColor=FF3CAC&labelColor=000"/></a>
+  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=FF3CAC&labelColor=000"/></a>
   <a href="https://nivakaran.dev"><img src="https://img.shields.io/badge/-Portfolio-FF2D55?style=plastic&logo=web&logoColor=FF3CAC&labelColor=000"/></a>
   <img src="https://komarev.com/ghpvc/?username=Nivakaran-S&style=plastic&color=FF3CAC&label=Stargazers" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🌌 The Cosmic Coder  
+## 🌌 The Developer's Journey  
 
-I’m **Nivakaran**, a third-year **B.Sc (Hons) IT** student at **SLIIT**, weaving **AI**, **data science**, and **software sorcery** into solutions that redefine what’s possible. My playground? The infinite expanse of code and creativity.  
+I'm **Nivakaran Shanmugabavan**, a passionate **Developer** pursuing **B.Sc (Hons) Information Technology** at **SLIIT** with specialization in **Software Engineering**. With professional experience spanning **healthcare documentation** and **customer service**, I bring real-world perspective to every line of code I craft.
 
-✨ **Mantra**:  
-> *“Code the stars, dream the universe.”*  
+From working as a **Medical Scribe** with US cardiologists to building end-to-end ML pipelines, I bridge the gap between **human needs** and **technological solutions**.
+
+✨ **Mission**:  
+> *"Transforming complex problems into intelligent, scalable solutions through the power of AI and thoughtful engineering."*  
+
+---
+
+## 💼 Professional Constellation
+
+### 🏥 **Medsource Healthcare LLC** | *Medical Documentation Specialist*
+**Jul 2022 - Dec 2024** | *Remote Medical Scribe*
+- Primary scribe for US cardiologists and multi-specialty providers
+- Real-time documentation of patient encounters, diagnoses, and treatment plans
+- Healthcare workflow optimization through technology integration
+
+### 🏛️ **Startek | Commercial Bank PLC** | *Customer Service Executive*  
+**Feb 2022 - Jun 2022**
+- Enhanced client communication and query resolution efficiency
+- Developed customer-centric problem-solving approaches
 
 ---
 
@@ -26,44 +43,68 @@ I’m **Nivakaran**, a third-year **B.Sc (Hons) IT** student at **SLIIT**, weavi
 
 | **Orbit**            | **Technologies**                                      |
 |----------------------|------------------------------------------------------|
-| 🤖 **AI & ML**       | PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain |
-| 💻 **Code Alchemy**   | Python, JavaScript, TypeScript, Java, C++, SQL       |
-| 🌐 **Web & Mobile**  | React, Next.js, Node.js, React Native, Firebase      |
-| 🗄️ **Data Realms**   | MySQL, MongoDB, Firebase Realtime DB                |
-| ⚙️ **Cosmic Tools**  | Git, Docker, Gradio, Postman, Figma, VS Code        |
+| 🤖 **AI & ML**       | PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, LangGraph |
+| 💻 **Code Alchemy**   | Python, JavaScript, TypeScript, Java, Kotlin        |
+| 🌐 **Web & Mobile**  | Next.js, React Native, Node.js, FastAPI, Flask      |
+| 🗄️ **Data Realms**   | MongoDB, PostgreSQL, Oracle, Hadoop, Spark, Kafka   |
+| ☁️ **Cloud Cosmos**  | AWS, GCP, Azure, Docker, Airflow, MLFlow, Databricks |
+| 📊 **Data Science**  | Matplotlib, Seaborn, SQL, Data Engineering Pipelines |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,firebase,mysql,mongodb,docker,git,figma,vscode,pytorch,tensorflow,sklearn&theme=dark" alt="Tech Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,react,nodejs,nextjs,fastapi,flask,mongodb,postgresql,pytorch,tensorflow,aws,gcp,azure,docker,git&theme=dark" alt="Tech Icons"/>
 </p>
 
 ---
 
 ## 🚀 Interstellar Projects  
 
-### 🐾 **StarSight AI**  
+### 🌱 **EcoHarvest: Surplus Food E-commerce**  
+A full-stack platform connecting suppliers with consumers to combat food waste.  
+- **Tech Stack**: Node.js, MongoDB, Express, Next.js, TypeScript
+- **AI Features**: Agentic AI for customer queries + Computer Vision (EfficientNet-B0 on Food-101 dataset)
+- **Impact**: Reducing food waste through intelligent marketplace solutions
+
+### 📦 **Sparrow: Intelligent Parcel Management**  
+**Delivery Time Prediction Pipeline** + **Agentic AI Automation**
+- **ML Pipeline**: Random Forest & LSTM for last-mile ETA prediction on logistics data
+- **Deployment**: AWS with CI/CD via Airflow for continuous model retraining  
+- **AI Agent**: LangGraph + Groq LLMs for automated parcel tracking workflows
+- **Backend**: Spring Boot for robust parcel consolidation platform
+
+### 📚 **NLP Book Recommendation Engine**  
+Semantic book suggestions powered by mood analysis
+- **Tech**: Hugging Face embeddings, cosine similarity, Flask deployment
+- **Features**: Description-based and mood-driven recommendations
+
+### 🐾 **StarSight AI Classification**  
 🔗 **[Live Demo](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**  
-A **custom CNN** crafted with PyTorch to classify **Cats**, **Dogs**, or **Humans** with stellar accuracy. Encased in a radiant **Gradio** UI.  
-> **Tech**: PyTorch, Gradio, ML Deployment  
-
-### 🛍️ **Galactic TradeHub**  
-A **React Native** B2B platform for grocery wholesalers, featuring MOQ pricing, OTP-secured checkout, and seamless Stripe/Koko payments.  
-> **Tech**: React Native, Node.js, Firebase, Stripe  
-
-### 🧠 **AstraNet Assistant**  
-A voice-driven AI companion with NLP and automation powers, inspired by sci-fi legends.  
-> **Tech**: TensorFlow, Speech-to-Text, Python  
+Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
+- **Tech**: PyTorch, Gradio, ML Deployment
 
 ---
 
-## 🌌 Charting New Galaxies  
-- Pioneering **Generative AI** with LangChain & Hugging Face  
-- Mastering **YOLOv8** and **Vision Transformers** for cosmic vision  
-- Scaling with **FastAPI**, **Django**, and **CI/CD** pipelines  
-- Launching **SaaS** constellations to reshape industries  
+## 🎓 Cosmic Certifications  
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Nivakaran-S?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=true&isocalendar.duration=half-year&config.timezone=Asia%2FColombo" alt="Metrics"/>
-</p>
+**2025 Constellation**:
+- 🌟 **Big Data Engineering Bootcamp** (GCP & Azure Cloud) - *Jul 2025*
+- 🌟 **Complete Node.js Developer** (GraphQL, MongoDB) - *Mar 2025*  
+- 🌟 **Complete Machine Learning & Data Science Bootcamp** - *Feb 2025*
+- 🌟 **Computer Vision Bootcamp** (PyTorch & TensorFlow) - *Apr 2025*
+- 🌟 **Advanced ML, NLP & Deep Learning Bootcamp** - *May 2025*
+- 🌟 **Agentic AI Bootcamp** (LangGraph & LangChain) - *Jun 2025*
+
+**2024 Foundation**:
+- ⭐ **TensorFlow for Deep Learning** - *Jul 2024*
+- ⭐ **Complete Generative AI Course** (LangChain & Hugging Face) - *Dec 2024*
+
+---
+
+## 🌌 Current Mission Parameters
+- 🚀 **Scaling ML Pipelines** with advanced cloud architectures
+- 🧠 **Mastering Agentic AI** for autonomous system orchestration  
+- 🔬 **Computer Vision Innovation** with YOLOv8 and Vision Transformers
+- 🌐 **SaaS Development** for healthcare and logistics domains
+- 🤖 **LLM Integration** for intelligent automation workflows
 
 ---
 
@@ -72,6 +113,8 @@ A voice-driven AI companion with NLP and automation powers, inspired by sci-fi l
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&theme=transparent&hide_border=true&title_color=FF3CAC&icon_color=FF3CAC" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivakaran-S&theme=transparent&hide_border=true&stroke=FF3CAC&ring=FF3CAC&fire=FF3CAC" alt="Streak Stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivakaran-S&layout=compact&theme=transparent&hide_border=true&title_color=FF3CAC" alt="Top Languages"/>
 </p>
 
@@ -80,32 +123,41 @@ A voice-driven AI companion with NLP and automation powers, inspired by sci-fi l
 ## 🤝 Join the Cosmic Journey  
 
 🌟 **Seeking**:  
-- **AI/ML** or **Full-Stack** adventures (internships/full-time)  
-- **Open-source** collaborations in AI, web, or mobile  
-- **Hackathons** to conquer universal challenges  
+- **ML Engineer** or **AI Developer** roles (internships/full-time)  
+- **Healthcare Tech** projects combining domain expertise with AI
+- **Open-source** collaborations in AI/ML, data engineering, or agentic systems
+- **Hackathons** focused on real-world problem solving
 
-📡 **Connect**:  
-- **Email**: [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com)  
-- **LinkedIn**: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaran)  
-- **GitHub**: [github.com/Nivakaran-S](https://github.com/Nivakaran-S)  
-- **Portfolio**: [nivakaran.dev](https://nivakaran.dev)  
+📡 **Mission Control**:  
+- **📧 Email**: [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com)  
+- **💼 LinkedIn**: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaran)  
+- **🚀 GitHub**: [github.com/Nivakaran-S](https://github.com/Nivakaran-S)  
+- **🌐 Portfolio**: [nivakaran.dev](https://nivakaran.dev)  
+- **📍 Location**: Colombo, Sri Lanka
 
 <p align="center">
   <a href="mailto:nivakaran@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=FF3CAC&labelColor=000"/></a>
-  <a href="https://linkedin.com/in/nivakaranS"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=FF3CAC&labelColor=000"/></a>
-  <a href="https://github.com/NivakaranS"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=FF3CAC&labelColor=000"/></a>
+  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=FF3CAC&labelColor=000"/></a>
+  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=FF3CAC&labelColor=000"/></a>
+  <a href="https://nivakaran.dev"><img src="https://img.shields.io/badge/Portfolio-FF2D55?style=plastic&logo=web&logoColor=FF3CAC&labelColor=000"/></a>
 </p>
 
 ---
 
-## ✨ Stardust Insights  
-- 🧠 GitHub is my cosmic forge for innovation.  
-- 🤖 I team up with AI to spark brilliance.  
-- ⚡ I shatter limits to rebuild stronger.  
-- 🌟 **Motto**: *Code with fire, create with vision.*  
+## 🌟 Community Engagement
+- **Leo Club of Colombo City** | *Member (May 2022 - Dec 2023)*
+- **IEEE Student Branch - SLIIT** | *Active Member (Jan 2025 - Present)*
+
+---
+
+## ✨ Developer Philosophy  
+- 🧠 **Experience-Driven**: Real healthcare exposure shapes technical decisions
+- 🤖 **AI-First Mindset**: Integrating intelligence into every solution if it can solve problems efficiently
+- ⚡ **Full-Stack Vision**: From ML models to production deployments
+- 🌟 **Impact-Focused**: Technology serving human needs
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Explore%20the%20Cosmos!&fontSize=30&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20the%20Future!&fontSize=30&fontAlignY=40"/>
 </p>
