@@ -111,8 +111,8 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 ## 📊 Nebula Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&theme=transparent&hide_border=true&title_color=FF3CAC&icon_color=FF3CAC" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivakaran-S&theme=transparent&hide_border=true&stroke=FF3CAC&ring=FF3CAC&fire=FF3CAC" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&theme=transparent&hide_border=true&title_color=%23FF3CAC&icon_color=%23FF3CAC" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivakaran-S&theme=transparent&hide_border=true&stroke=%23FF3CAC&ring=%23FF3CAC&fire=%23FF3CAC" alt="Streak Stats"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivakaran-S&layout=compact&theme=transparent&hide_border=true&title_color=FF3CAC" alt="Top Languages"/>
