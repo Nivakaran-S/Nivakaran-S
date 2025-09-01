@@ -136,20 +136,6 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 
 ---
 
-## 🌟 Volunteering
-- **Leo Club of Colombo City** | *Member (May 2022 - Dec 2023)*
-- **IEEE Student Branch - SLIIT** | *Active Member (Jan 2025 - Present)*
-
----
-
-## ✨ Developer Philosophy  
-- 🧠 **Experience-Driven**: Real healthcare exposure shapes technical decisions
-- 🤖 **AI-First Mindset**: Integrating intelligence into every solution if it can solve problems efficiently
-- ⚡ **Full-Stack Vision**: From ML models to production deployments
-- 🌟 **Impact-Focused**: Technology serving human needs
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20the%20Future!&fontSize=30&fontAlignY=40"/>
 </p>
