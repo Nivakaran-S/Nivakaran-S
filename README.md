@@ -1,4 +1,4 @@
-# 🌠 Nivakaran's Code Nebula  
+# 🌠 Nivakaran Shanmugabavan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+AI+Developer;Crafting+Intelligent+Solutions;From+Healthcare+to+Tech" alt="Typing SVG"/>
@@ -39,15 +39,15 @@ From working as a **Medical Scribe** with US cardiologists to building end-to-en
 
 ---
 
-## 🛠️ Stellar Arsenal  
+## 🛠️ Tech Stack
 
 | **Orbit**            | **Technologies**                                      |
 |----------------------|------------------------------------------------------|
 | 🤖 **AI & ML**       | PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, LangGraph |
-| 💻 **Code Alchemy**   | Python, JavaScript, TypeScript, Java, Kotlin        |
+| 💻 **Programming Languages**   | Python, JavaScript, TypeScript, Java, Kotlin        |
 | 🌐 **Web & Mobile**  | Next.js, React Native, Node.js, FastAPI, Flask      |
-| 🗄️ **Data Realms**   | MongoDB, PostgreSQL, Oracle, Hadoop, Spark, Kafka   |
-| ☁️ **Cloud Cosmos**  | AWS, GCP, Azure, Docker, Airflow, MLFlow, Databricks |
+| 🗄️ **Databases**   | MongoDB, PostgreSQL, Oracle, Hadoop, Spark, Kafka   |
+| ☁️ **Cloud**  | AWS, GCP, Azure, Docker, Airflow, MLFlow, Databricks |
 | 📊 **Data Science**  | Matplotlib, Seaborn, SQL, Data Engineering Pipelines |
 
 <p align="center">
@@ -56,9 +56,10 @@ From working as a **Medical Scribe** with US cardiologists to building end-to-en
 
 ---
 
-## 🚀 Interstellar Projects  
+## 🚀 Key Projects  
 
 ### 🌱 **EcoHarvest: Surplus Food E-commerce**  
+🔗 **[Live Demo](https://ecoharvest.nivakaran.dev)**  
 A full-stack platform connecting suppliers with consumers to combat food waste.  
 - **Tech Stack**: Node.js, MongoDB, Express, Next.js, TypeScript
 - **AI Features**: Agentic AI for customer queries + Computer Vision (EfficientNet-B0 on Food-101 dataset)
@@ -76,14 +77,14 @@ Semantic book suggestions powered by mood analysis
 - **Tech**: Hugging Face embeddings, cosine similarity, Flask deployment
 - **Features**: Description-based and mood-driven recommendations
 
-### 🐾 **StarSight AI Classification**  
+### 🐾 **Cat Dog Person Image Classifier**  
 🔗 **[Live Demo](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**  
 Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 - **Tech**: PyTorch, Gradio, ML Deployment
 
 ---
 
-## 🎓 Cosmic Certifications  
+## 🎓 Certifications  
 
 **2025 Constellation**:
 - 🌟 **Big Data Engineering Bootcamp** (GCP & Azure Cloud) - *Jul 2025*
@@ -99,16 +100,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 
 ---
 
-## 🌌 Current Mission Parameters
-- 🚀 **Scaling ML Pipelines** with advanced cloud architectures
-- 🧠 **Mastering Agentic AI** for autonomous system orchestration  
-- 🔬 **Computer Vision Innovation** with YOLOv8 and Vision Transformers
-- 🌐 **SaaS Development** for healthcare and logistics domains
-- 🤖 **LLM Integration** for intelligent automation workflows
-
----
-
-## 📊 Nebula Stats  
+## 📊 Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&theme=transparent&hide_border=true&title_color=%23FF3CAC&icon_color=%23FF3CAC" alt="GitHub Stats"/>
@@ -120,7 +112,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 
 ---
 
-## 🤝 Join the Cosmic Journey  
+## 🤝 Join the Journey  
 
 🌟 **Seeking**:  
 - **ML Engineer** or **AI Developer** roles (internships/full-time)  
@@ -128,7 +120,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 - **Open-source** collaborations in AI/ML, data engineering, or agentic systems
 - **Hackathons** focused on real-world problem solving
 
-📡 **Mission Control**:  
+📡 **Contact**:  
 - **📧 Email**: [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com)  
 - **💼 LinkedIn**: [linkedin.com/in/nivakaran](https://linkedin.com/in/nivakaran)  
 - **🚀 GitHub**: [github.com/Nivakaran-S](https://github.com/Nivakaran-S)  
@@ -144,7 +136,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 
 ---
 
-## 🌟 Community Engagement
+## 🌟 Volunteering
 - **Leo Club of Colombo City** | *Member (May 2022 - Dec 2023)*
 - **IEEE Student Branch - SLIIT** | *Active Member (Jan 2025 - Present)*
 
