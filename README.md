@@ -1,7 +1,7 @@
 # 🌠 Nivakaran Shanmugabavan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=Developer;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bridging+Software+Engineering+And+Data+Science;" alt="Typing SVG"/>
 </p>
 
 <p align="center">
