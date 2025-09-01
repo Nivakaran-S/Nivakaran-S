@@ -24,7 +24,7 @@ From working as a **Medical Scribe** with US cardiologists to building end-to-en
 
 ---
 
-## 💼 Professional Constellation
+## 💼 Professional Experience
 
 ### 🏥 **Medsource Healthcare LLC** | *Medical Documentation Specialist*
 **Jul 2022 - Dec 2024** | *Remote Medical Scribe*
