@@ -86,7 +86,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 
 ## 🎓 Certifications  
 
-**2025 Constellation**:
+**2025**:
 - 🌟 **Big Data Engineering Bootcamp** (GCP & Azure Cloud) - *Jul 2025*
 - 🌟 **Complete Node.js Developer** (GraphQL, MongoDB) - *Mar 2025*  
 - 🌟 **Complete Machine Learning & Data Science Bootcamp** - *Feb 2025*
@@ -94,7 +94,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 - 🌟 **Advanced ML, NLP & Deep Learning Bootcamp** - *May 2025*
 - 🌟 **Agentic AI Bootcamp** (LangGraph & LangChain) - *Jun 2025*
 
-**2024 Foundation**:
+**2024**:
 - ⭐ **TensorFlow for Deep Learning** - *Jul 2024*
 - ⭐ **Complete Generative AI Course** (LangChain & Hugging Face) - *Dec 2024*
 
