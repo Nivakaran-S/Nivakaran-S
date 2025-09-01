@@ -1,7 +1,7 @@
 # 🌠 Nivakaran Shanmugabavan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+AI+Developer;Crafting+Intelligent+Solutions;From+Healthcare+to+Tech" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&duration=2500&pause=300&color=FF3CAC&center=true&vCenter=true&width=600&lines=Developer;" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -137,5 +137,5 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Build%20the%20Future!&fontSize=30&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
