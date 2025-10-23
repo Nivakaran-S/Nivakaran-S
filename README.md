@@ -20,7 +20,7 @@ I'm **Nivakaran Shanmugabavan**, a passionate **Developer** pursuing **B.Sc (Hon
 From working as a **Medical Scribe** with US cardiologists to building end-to-end ML pipelines, I bridge the gap between **human needs** and **technological solutions**.
 
 ✨ **Mission**:  
-> *"Transforming complex problems into intelligent, scalable solutions through the power of AI and thoughtful engineering."*  
+> *"Transforming complex problems into intelligent, scalable solutions through the power of AI and thoughtful engineering. I'm always seeking new challenges and opportunities to learn from experienced teams"*  
 
 ---
 
@@ -66,13 +66,15 @@ A full-stack platform connecting suppliers with consumers to combat food waste.
 - **Impact**: Reducing food waste through intelligent marketplace solutions
 
 ### 📦 **Sparrow: Intelligent Parcel Management**  
+🔗 **[Live Demo](https://sparrow.nivakaran.dev)**  
 **Delivery Time Prediction Pipeline** + **Agentic AI Automation**
-- **ML Pipeline**: Random Forest & LSTM for last-mile ETA prediction on logistics data
-- **Deployment**: AWS with CI/CD via Airflow for continuous model retraining  
+- **ML Pipeline**: Random Forest & XGBoost for last-mile ETA prediction on logistics data
+- **Deployment**: Huggingface Spaces for the Agentic AI and eta pipeline and the other services are deployed on vercel    
 - **AI Agent**: LangGraph + Groq LLMs for automated parcel tracking workflows
-- **Backend**: Spring Boot for robust parcel consolidation platform
+- **Backend**: Node.js for robust parcel consolidation platform
 
 ### 📚 **NLP Book Recommendation Engine**  
+🔗 **[Live Demo](https://nivakaran-book-recommendation.hf.space)**  
 Semantic book suggestions powered by mood analysis
 - **Tech**: Hugging Face embeddings, cosine similarity, Flask deployment
 - **Features**: Description-based and mood-driven recommendations
@@ -112,7 +114,7 @@ Custom CNN for Cats, Dogs, and Humans classification with sleek Gradio interface
 
 ---
 
-## 🤝 Join the Journey  
+## 🤝 Lets Collaborate in the Journey  
 
 🌟 **Seeking**:  
 - **ML Engineer** or **AI Developer** roles (internships/full-time)  
