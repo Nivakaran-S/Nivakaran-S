@@ -1,0 +1,46 @@
+name: generate-snake
+
+# Renders the contribution graph as a snake-eating-commits animation.
+# Output is pushed to a dedicated `snake-output` branch so that `main`
+# keeps a clean, human-authored commit history.
+
+on:
+  schedule:
+    # 00:20 UTC daily == 05:50 Asia/Colombo
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Render contribution snake
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+            dist/snake.gif?color_snake=#00FF41&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+
+      - name: Publish to snake-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: snake-output
+          build_dir: dist
+          commit_message: "chore(ci): regenerate contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

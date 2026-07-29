@@ -1,0 +1,53 @@
+name: update-readme
+
+# Rewrites the block between <!-- ACTIVITY:START --> and <!-- ACTIVITY:END -->
+# in README.md with a freshly built activity log + recently pushed repos.
+# Uses the built-in GITHUB_TOKEN -- no extra secrets required.
+
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/update_readme.py"
+      - ".github/workflows/update-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild activity block
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(ci): refresh activity feed [skip ci]"
+          file_pattern: README.md
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
