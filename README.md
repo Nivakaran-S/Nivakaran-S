@@ -1,110 +1,157 @@
-```
-███╗   ██╗██╗██╗   ██╗ █████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
-████╗  ██║██║██║   ██║██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
-██╔██╗ ██║██║██║   ██║███████║█████╔╝ ███████║██████╔╝███████║██╔██╗ ██║
-██║╚██╗██║██║╚██╗ ██╔╝██╔══██║██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║
-██║ ╚████║██║ ╚████╔╝ ██║  ██║██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-                    [ ML ENGINEER ]  ::  [ FULL STACK ]
-```
+<h1 align="center">Nivakaran Shanmugabavan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=400&color=00FF41&center=true&vCenter=true&width=760&lines=%3E+loading+checkpoint%3A+nivakaran.safetensors;%3E+device%3A+cuda%3A0+%7C+dtype%3A+bfloat16;%3E+stack%3A+pytorch+%C2%B7+langgraph+%C2%B7+next.js+%C2%B7+spark;%3E+inference+server+READY+%E2%96%88" alt="boot"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=600&color=00FF41&center=true&vCenter=true&width=680&lines=I+build+software+that+thinks.;Sri+Lanka+%E2%86%92+anywhere+with+a+good+problem.;Currently%3A+AI%2C+and+everything+around+it." alt="intro"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
-  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
-  <a href="https://huggingface.co/Nivakaran"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HUGGINGFACE-000000?style=for-the-badge&labelColor=000000"/></a>
   <a href="https://nivakaran.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41&labelColor=000000"/></a>
-  <a href="mailto:nivakaran@hotmail.com"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=maildotru&logoColor=00FF41&labelColor=000000"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nivakaran-S&style=for-the-badge&color=00FF41&label=INFERENCE+CALLS&labelColor=000000"/>
+  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
+  <a href="mailto:nivakaran@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=00FF41&labelColor=000000"/></a>
+  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
+</p>
+
+<p align="center">
+  <i>Full-stack developer and AI engineer.<br/>
+  I take ideas that only exist in someone's head and turn them into things people can actually use.</i>
 </p>
 
 ---
 
-## `$ nvidia-smi`
+## Hello 👋
 
-```
-+-----------------------------------------------------------------------------+
-| NIVAKARAN-SMI 2026.07      Driver Version: 5.0.1       CUDA Version: 12.4    |
-|-------------------------------+----------------------+----------------------+
-| GPU  Name         Persist-M   | Bus-Id         Disp.A | Volatile Uncorr. ECC |
-| Fan  Temp  Perf   Pwr:Usage   |          Memory-Usage | GPU-Util  Compute M. |
-|===============================+======================+======================|
-|   0  Curiosity          On    | 00000000:01:00.0  Off |                  N/A |
-| 42%   67C    P2    240W/250W  |   15104MiB/16384MiB   |     98%      Default |
-+-------------------------------+----------------------+----------------------+
+I'm a final-stage **Information Technology** student at **SLIIT** in Sri Lanka, specialising in software engineering — and I spend most of my time building **artificial intelligence systems that solve ordinary problems**.
 
-+-----------------------------------------------------------------------------+
-| Processes:                                                                   |
-|   GPU   PID   Type   Process name                              GPU Memory     |
-|=============================================================================|
-|     0  2201      C   ecoharvest/efficientnet_b0_food101          4210MiB     |
-|     0  2202      C   sparrow/eta_xgboost_ensemble                3180MiB     |
-|     0  2203      C   sparrow/langgraph_agent_runtime             2940MiB     |
-|     0  2204      C   book_rec/hf_sentence_embeddings             2016MiB     |
-|     0  2205      C   classifier/custom_cnn_3class                1014MiB     |
-|     0  ????      C   next_experiment                             [PENDING]   |
-+-----------------------------------------------------------------------------+
-```
+Not the science-fiction kind. The kind that tells you honestly when your parcel will arrive. The kind that recognises a photo of a meal. The kind that reads what you're in the mood for and finds you a book.
+
+If you're not technical, here's the one thing worth knowing: **I don't stop at the demo.** A lot of AI work lives in a research notebook and never leaves. Everything on this page is online right now, and you can click it and use it yourself.
 
 ---
 
-## `$ cat model_card.yaml`
+## How I got here 💼 → 💻
 
-```yaml
-model_id:      nivakaran-shanmugabavan
-architecture:  Full Stack Developer × ML / AI Engineer
-base_model:    B.Sc (Hons) Information Technology @ SLIIT
-               └── specialization: Software Engineering
-region:        Colombo, Sri Lanka  ·  UTC+05:30
-context:       clinical documentation · agentic systems · data pipelines
-license:       open-to-collaborate
-status:        actively fine-tuning
+I didn't start in a computer lab. I started on the receiving end of other people's software.
 
-intended_use:
-  - end-to-end ML systems that reach production, not just notebooks
-  - agentic workflows with real tool-calling and real failure modes
-  - healthcare tech where domain knowledge is the bottleneck
+**In a bank's contact centre**, I learned that when someone is frustrated, they don't want a clever answer — they want to be understood first.
 
-out_of_scope:
-  - shipping a demo and calling it a system
-```
+**As a medical scribe**, I documented doctors' appointments as they happened, working remotely with US cardiologists and other specialists. While the doctor examined a patient and talked through what they were finding, I wrote it down in real time: the symptoms, the diagnosis, the plan.
 
-Most people arrive at ML from mathematics. I arrived from **watching US cardiologists work** — transcribing encounters in real time for two and a half years, seeing exactly where clinical workflows break and where software could have caught it. That's the prior I train on: *what does this actually solve, and for whom?*
+**As an operations analyst**, I worked through the unglamorous end of a business — the accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
+
+Three very different jobs, one thing in common:
+
+> **Most problems aren't technical problems. They're problems of attention.**
+>
+> A doctor has fifteen minutes with a patient. An analyst has a thousand rows and an afternoon. Every minute lost wrestling with a clumsy tool is a minute not spent on the thing that actually mattered. That's the real cost of bad software — not time, but attention, in the moments where it counts.
+
+I moved into engineering because I got tired of noticing that and not being able to fix it.
+
+So now, whenever I build something, I ask the same question I asked in those jobs: *who is on the other end of this, and what do they actually need from me?*
 
 ---
 
-## `$ tail -f logs/train.log`
+## Where I've worked 🗂️
 
-```console
-nivakaran@sliit:~$ tail -f logs/career/train.log
-
-[2022-02]  epoch 01/∞   loss 1.0000   init  :: customer_service @ startek → commercial bank
-[2022-07]  epoch 02/∞   loss 0.7412   transfer :: clinical documentation, us cardiology
-[2024-07]  epoch 03/∞   loss 0.5108   unfroze :: tensorflow · deep learning
-[2024-12]  epoch 04/∞   loss 0.3874   augment :: generative ai · langchain · huggingface
-[2025-02]  epoch 05/∞   loss 0.2996   expand  :: machine learning + data science
-[2025-04]  epoch 06/∞   loss 0.2341   vision  :: pytorch · tensorflow · cnn architectures
-[2025-05]  epoch 07/∞   loss 0.1902   nlp     :: transformers · embeddings · deep learning
-[2025-06]  epoch 08/∞   loss 0.1548   agents  :: langgraph · langchain · tool calling
-[2025-07]  epoch 09/∞   loss 0.1237   scale   :: spark · kafka · airflow · gcp · azure
-
->>> early_stopping = False
->>> checkpoint saved. training continues.
-```
+| When | Role | Where |
+|------|------|-------|
+| **Jan 2026 – Jun 2026** | Collections Associate — Operations Analyst | HealthRecon Connect |
+| **Jul 2022 – Dec 2024** | Medical Scribe — Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
+| **Feb 2022 – Jun 2022** | Customer Service Executive | Startek — Commercial Bank PLC |
 
 ---
 
-## `$ python -c "from nivakaran import Engineer; print(Engineer())"`
+## Things I've built 🛠️
+
+Four of them. All live, all clickable, no login needed.
+
+<br/>
+
+### 🌱 EcoHarvest — *rescuing food before it's thrown away*
+
+**[→ See it live](https://ecoharvest.nivakaran.dev)**
+
+Perfectly good food gets thrown out every day — because a bakery closed, a shop over-ordered, a date printed on a label passed. Meanwhile someone a few streets away would happily have bought it.
+
+EcoHarvest is a marketplace that connects the two. Suppliers list surplus food, buyers claim it cheaply, and less of it ends up in a bin. I added an AI assistant that answers customer questions on its own, and a system that can **recognise food from a photograph**.
+
+<sub>*Under the hood: Next.js, TypeScript, Node.js, MongoDB · EfficientNet-B0 vision model fine-tuned on the Food-101 dataset · agentic AI for customer support.*</sub>
+
+<br/>
+
+### 📦 Sparrow — *making "arriving Tuesday" mean something*
+
+**[→ See it live](https://sparrow.nivakaran.dev)**
+
+When a courier tells you your parcel arrives Tuesday, that's usually an educated guess. Sparrow tries to make it a real prediction.
+
+It studies thousands of past deliveries — the route, the distance, the time of day, the conditions — and learns the patterns that actually determine when a parcel shows up. On top of that sits an **AI agent** that handles tracking questions by itself: it understands what you're asking, looks up the answer, and replies, without a human in the loop.
+
+<sub>*Under the hood: Random Forest and XGBoost ensemble for ETA prediction · LangGraph agent orchestration with Groq LLMs · Node.js consolidation platform · deployed on Hugging Face Spaces and Vercel.*</sub>
+
+<br/>
+
+### 📚 Book Recommender — *for when you don't know what you want to read*
+
+**[→ Try it](https://nivakaran-book-recommendation.hf.space)**
+
+Search engines need you to know the answer before you ask. This one doesn't.
+
+Describe a feeling — restless, homesick, wanting something gentle — and it finds books that match. It works by teaching a computer to understand what a book is *about*, rather than just matching keywords in the title.
+
+<sub>*Under the hood: Hugging Face sentence embeddings, cosine similarity retrieval, Flask.*</sub>
+
+<br/>
+
+### 🐾 Cat / Dog / Person Classifier — *the one I built to learn*
+
+**[→ Try it](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
+
+Upload a photo; it tells you whether it's a cat, a dog, or a person.
+
+Simple on purpose. I built the neural network from scratch rather than downloading one that already worked, because I wanted to understand *why* these things see what they see. Every project after this one was easier for it.
+
+<sub>*Under the hood: custom convolutional neural network in PyTorch, served through Gradio.*</sub>
+
+---
+
+## In numbers 📊
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>4</h2><sub>systems built and<br/>publicly deployed</sub></td>
+<td align="center" width="25%"><h2>8</h2><sub>certifications in AI,<br/>ML and data engineering</sub></td>
+<td align="center" width="25%"><h2>3</h2><sub>years of<br/>professional work</sub></td>
+<td align="center" width="25%"><h2>∞</h2><sub>things left<br/>to learn</sub></td>
+</tr>
+</table>
+
+---
+
+## What I work with 🧰
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,ts,js,nextjs,react,nodejs,java,kotlin,mongodb,postgres,kafka,docker,aws,gcp,azure&theme=dark&perline=10" alt="tools"/>
+</p>
+
+In plain English, that's four things:
+
+| | |
+|---|---|
+| 🧠 **Teaching machines** | Building models that recognise images, understand language, and make predictions. |
+| 🤖 **AI that acts** | Agents that don't just answer — they look things up, use tools, and complete tasks. |
+| 🌐 **Websites and apps** | The part people actually see and touch. Front to back. |
+| 🗄️ **Data at scale** | Moving and processing large amounts of information reliably. |
+
+<details>
+<summary><b>🔬 For the engineers — the full technical breakdown</b></summary>
+
+<br/>
 
 ```python
+>>> from nivakaran import Engineer
+>>> print(Engineer(pretrained=True))
+
 Engineer(
-  (domain): Prior(
-    healthcare_documentation = True,   # 2.5 yrs, US cardiology
-    customer_facing          = True,   # banking, high-volume
-  )
   (languages): ModuleList(
     Python, TypeScript, JavaScript, Java, Kotlin
   )
@@ -115,9 +162,9 @@ Engineer(
     (3): Vision(CNN, EfficientNet-B0, transfer_learning=True)
   )
   (data): Pipeline(
-    stores  = [MongoDB, PostgreSQL, Oracle],
-    compute = [Hadoop, Spark, Kafka],
-    orchestr= [Airflow, MLflow, Databricks],
+    stores   = [MongoDB, PostgreSQL, Oracle],
+    compute  = [Hadoop, Spark, Kafka],
+    orchestr = [Airflow, MLflow, Databricks],
   )
   (serving): Sequential(
     (0): Backend(FastAPI, Flask, Node.js)
@@ -126,51 +173,12 @@ Engineer(
   )
 )
 
-Total params:      8 certifications · 4 systems in production
-Trainable params:  all of them
-Frozen params:     0
+Total params:     8 certifications · 4 systems in production
+Trainable params: all of them
+Frozen params:    0
 ```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,ts,js,nextjs,react,nodejs,java,kotlin,mongodb,postgres,kafka,docker,aws,gcp,azure&theme=dark&perline=10" alt="stack"/>
-</p>
-
----
-
-## `$ mlflow experiments list --view=active`
-
-```
-EXPERIMENT          ARTIFACT                          STATUS     PRIMARY METRIC
-──────────────────────────────────────────────────────────────────────────────
-ecoharvest          efficientnet_b0 + agentic_rag     FINISHED   food-101 classification
-sparrow             xgboost_eta + langgraph_agent     FINISHED   last-mile ETA regression
-book_recommender    hf_embeddings + cosine_sim        FINISHED   semantic top-k retrieval
-image_classifier    custom_cnn_3class                 FINISHED   cat/dog/person accuracy
-──────────────────────────────────────────────────────────────────────────────
-4 runs · all deployed · all publicly reachable
-```
-
-### `[run:0] ecoharvest` — surplus food marketplace
-**`→`  [ecoharvest.nivakaran.dev](https://ecoharvest.nivakaran.dev)**
-```diff
-+ problem   :: edible surplus goes to landfill while demand exists
-+ vision    :: EfficientNet-B0 fine-tuned on Food-101 for item recognition
-+ agent     :: agentic AI handling customer queries end to end
-+ platform  :: Next.js · TypeScript · Node.js · Express · MongoDB
-! outcome   :: full supplier→consumer marketplace, live
-```
-
-### `[run:1] sparrow` — intelligent parcel management
-**`→`  [sparrow.nivakaran.dev](https://sparrow.nivakaran.dev)**
-```diff
-+ problem   :: last-mile ETAs are guesses; tracking is manual
-+ model     :: Random Forest + XGBoost ensemble on logistics features
-+ agent     :: LangGraph state machine + Groq LLMs for tracking workflows
-+ backend   :: Node.js parcel consolidation platform
-+ serving   :: HF Spaces (agent + ETA pipeline) · Vercel (services)
-```
-
-Agent topology (`sparrow/graph.py`):
+**Sparrow's agent topology** — how a tracking query actually gets resolved:
 
 ```mermaid
 flowchart LR
@@ -192,49 +200,41 @@ flowchart LR
     class F,G t
 ```
 
-### `[run:2] book_recommender` — semantic NLP engine
-**`→`  [nivakaran-book-recommendation.hf.space](https://nivakaran-book-recommendation.hf.space)**
-```diff
-+ problem   :: keyword search can't answer "something for how I feel right now"
-+ embed     :: HuggingFace sentence embeddings over book descriptions
-+ retrieve  :: cosine similarity, description-driven and mood-driven modes
-+ serving   :: Flask on HF Spaces
-```
+**Certifications, most recent first:**
 
-### `[run:3] image_classifier` — custom CNN, 3-class
-**`→`  [gradio demo](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
-```diff
-+ scope     :: cat / dog / person, convolutional net built from scratch
-+ stack     :: PyTorch · Gradio · live inference endpoint
-+ purpose   :: architecture intuition before reaching for pretrained weights
-```
+| Year | Certification |
+|------|---------------|
+| 2025 | Big Data Engineering Bootcamp — GCP & Azure |
+| 2025 | Agentic AI Bootcamp — LangGraph & LangChain |
+| 2025 | Advanced ML, NLP & Deep Learning Bootcamp |
+| 2025 | Computer Vision Bootcamp — PyTorch & TensorFlow |
+| 2025 | Complete Node.js Developer — GraphQL & MongoDB |
+| 2025 | Complete Machine Learning & Data Science Bootcamp |
+| 2024 | Complete Generative AI — LangChain & Hugging Face |
+| 2024 | TensorFlow for Deep Learning |
+
+</details>
 
 ---
 
-## `$ pip list | grep -Ei "cert|bootcamp"`
+## What I'm looking for 🎯
 
-```console
-nivakaran@sliit:~$ pip list --format=columns
+I'm looking for my **first full-time role as an ML or AI engineer** — or an internship that could grow into one.
 
-Package                                   Version    Installed
-───────────────────────────────────────────────────────────────
-big-data-engineering[gcp,azure]           2025.7     jul 2025
-agentic-ai[langgraph,langchain]           2025.6     jun 2025
-advanced-ml-nlp-deep-learning             2025.5     may 2025
-computer-vision[pytorch,tensorflow]       2025.4     apr 2025
-complete-nodejs[graphql,mongodb]          2025.3     mar 2025
-machine-learning-data-science             2025.2     feb 2025
-generative-ai[langchain,huggingface]      2024.12    dec 2024
-tensorflow-deep-learning                  2024.7     jul 2024
-───────────────────────────────────────────────────────────────
-8 packages installed. 0 obsolete. ∞ available for upgrade.
-```
+I'd be especially glad to find:
+
+- 🤖 **Applied AI teams** building things that reach real users, not just papers
+- 🏗️ **Products where the model is only half the job** — the other half being making it fast, reliable and usable
+- 🌍 **Open source projects** in machine learning, data engineering, or AI agents
+- ⚡ **Hackathons** — genuinely one of my favourite ways to spend a weekend
+
+And honestly, the thing I want most is to work alongside **people who are better than me**, on something that matters. I learn fastest that way.
 
 ---
 
-## `$ tail -f /var/log/git/activity.log`
+## Recently 📡
 
-> Rebuilt every 6h by [`update-readme.yml`](.github/workflows/update-readme.yml). Do not edit between the anchors.
+<sub>This section updates itself every six hours. If you're wondering how — a small program reads my GitHub activity and rewrites this part of the page automatically. It's a nice trick.</sub>
 
 <!-- ACTIVITY:START -->
 ```console
@@ -248,7 +248,9 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 ---
 
-## `$ ./contribution_snake --animate`
+## My year, as a game 🐍
+
+<p align="center"><sub>Every green square is a day I wrote code. The snake eats them.</sub></p>
 
 <p align="center">
   <picture>
@@ -260,87 +262,71 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 ---
 
-## `$ tensorboard --logdir ./assets --self-hosted`
+## The full picture 📈
 
 <p align="center">
-  <img src="./assets/metrics.svg" alt="metrics dashboard"/>
+  <img src="./assets/metrics.svg" alt="overview: activity, community, repositories, languages"/>
 </p>
 
 <p align="center">
-  <img src="./assets/metrics-habits.svg" alt="coding habits"/>
+  <img src="./assets/metrics-habits.svg" alt="coding habits: when and how I work"/>
 </p>
 
-<details>
-<summary><code>$ metrics --source=third-party   # fallback cards</code></summary>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=6" alt="github stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Nivakaran-S&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=6" alt="contribution streak"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivakaran-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=6&langs_count=10" alt="most used languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivakaran-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=6" alt="weekly coding breakdown"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nivakaran-S&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivakaran-S&bg_color=0D1117&color=00FF41&line=00FF41&point=39D353&area=true&hide_border=true&radius=6" alt="contribution graph over time"/>
+</p>
+
+---
+
+## Say hello 💬
+
+I reply to everything, usually within a day. You don't need a reason — "I saw your parcel thing and had a question" is a perfectly good opening.
+
+<p align="center">
+  <a href="mailto:nivakaran@hotmail.com"><b>nivakaran@hotmail.com</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/nivakaran"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://nivakaran.dev"><b>nivakaran.dev</b></a>
+</p>
+
+<p align="center">
+  <sub>📍 Colombo, Sri Lanka · open to remote work anywhere</sub>
+</p>
+
 <br/>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=6" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Nivakaran-S&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=6" alt="streak"/>
+  <sub><i>Thanks for reading all the way down. Genuinely — most people don't.</i></sub>
 </p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivakaran-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=6&langs_count=8" alt="languages"/>
-</p>
-</details>
-
----
-
-## `$ curl -X POST https://nivakaran.dev/v1/collaborate`
-
-```http
-POST /v1/collaborate HTTP/1.1
-Content-Type: application/json
-```
-
-```json
-{
-  "status": 200,
-  "accepting": [
-    "ML Engineer / AI Developer   — internship or full-time",
-    "Healthcare Tech              — domain expertise × applied AI",
-    "Open source                  — ML, data engineering, agentic systems",
-    "Hackathons                   — real problems, tight deadlines"
-  ],
-  "endpoints": {
-    "mail":      "nivakaran@hotmail.com",
-    "linkedin":  "linkedin.com/in/nivakaran",
-    "github":    "github.com/Nivakaran-S",
-    "www":       "nivakaran.dev"
-  },
-  "latency_p50": "< 24h",
-  "region": "asia-south / remote-friendly"
-}
-```
-
----
 
 <details>
-<summary><code>$ cat .github/BUILD.md   # how this profile builds itself</code></summary>
+<summary><sub>🔧 How this page builds itself</sub></summary>
 
 ```
 .
-├── README.md                       # you are here
-├── LICENSE                         # MIT
-├── assets/                         # CI-generated SVGs — do not edit
-│   ├── metrics.svg
-│   └── metrics-habits.svg
+├── README.md                       # this page
+├── assets/                         # CI-generated graphics — do not edit
 └── .github/
-    ├── scripts/
-    │   └── update_readme.py        # stdlib-only activity feed builder
+    ├── scripts/update_readme.py    # rewrites the "Recently" section
     └── workflows/
-        ├── snake.yml               # daily    → snake-output branch
-        ├── metrics.yml             # daily    → assets/*.svg
-        └── update-readme.yml       # 6-hourly → README activity block
+        ├── snake.yml               # daily    → snake animation
+        ├── metrics.yml             # daily    → statistics graphics
+        └── update-readme.yml       # 6-hourly → activity feed
 ```
 
-Third-party badge renderers rate-limit and fail. Everything above is generated
-in CI and served from this repository, so it renders whether or not someone
-else's Vercel instance is having a bad day.
+Most GitHub profiles pull their graphics from free third-party services that rate-limit and go down. Mine are generated by scheduled jobs in this repository and served from it, so the page renders even when someone else's server is having a bad day.
 
 </details>
-
-```console
-nivakaran@sliit:~$ echo "thanks for scrolling. now go ship something."
-thanks for scrolling. now go ship something.
-
-nivakaran@sliit:~$ █
-```
