@@ -20,7 +20,7 @@
 
 ## Hello 👋
 
-I'm a final-stage **Information Technology** student at **SLIIT** in Sri Lanka, specialising in software engineering — and I spend most of my time building **artificial intelligence systems that solve ordinary problems**.
+I'm a final-stage **Information Technology** student at **SLIIT** in Sri Lanka, specialising in software engineering, and I spend most of my time building **artificial intelligence systems that solve ordinary problems**.
 
 Not the science-fiction kind. The kind that tells you honestly when your parcel will arrive. The kind that recognises a photo of a meal. The kind that reads what you're in the mood for and finds you a book.
 
@@ -32,19 +32,21 @@ If you're not technical, here's the one thing worth knowing: **I don't stop at t
 
 I didn't start in a computer lab. I started on the receiving end of other people's software.
 
-**In a bank's contact centre**, I learned that when someone is frustrated, they don't want a clever answer — they want to be understood first.
+**In a bank's contact centre**, I learned that when someone is frustrated, they don't want a clever answer; they want to be understood first.
 
 **As a medical scribe**, I documented doctors' appointments as they happened, working remotely with US cardiologists and other specialists. While the doctor examined a patient and talked through what they were finding, I wrote it down in real time: the symptoms, the diagnosis, the plan.
 
-**As an operations analyst**, I worked through the unglamorous end of a business — the accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
+**As an operations analyst**, I worked through the unglamorous end of a business: the accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
 
 Three very different jobs, one thing in common:
 
 > **Most problems aren't technical problems. They're problems of attention.**
 >
-> A doctor has fifteen minutes with a patient. An analyst has a thousand rows and an afternoon. Every minute lost wrestling with a clumsy tool is a minute not spent on the thing that actually mattered. That's the real cost of bad software — not time, but attention, in the moments where it counts.
+> A doctor has fifteen minutes with a patient. An analyst has a thousand rows and an afternoon. Every minute lost wrestling with a clumsy tool is a minute not spent on the thing that actually mattered. That's the real cost of bad software: not time, but attention, in the moments where it counts.
 
 I moved into engineering because I got tired of noticing that and not being able to fix it.
+
+In March 2026 I joined **Healplace** as a Junior Full Stack Developer, building software for the same healthcare world I used to work inside. By September I was promoted to **Associate Software Engineer**, which is where I am now. I still study at SLIIT alongside it, and the side projects below are where I try things before they go near production.
 
 So now, whenever I build something, I ask the same question I asked in those jobs: *who is on the other end of this, and what do they actually need from me?*
 
@@ -54,9 +56,11 @@ So now, whenever I build something, I ask the same question I asked in those job
 
 | When | Role | Where |
 |------|------|-------|
-| **Jan 2026 – Jun 2026** | Collections Associate — Operations Analyst | HealthRecon Connect |
-| **Jul 2022 – Dec 2024** | Medical Scribe — Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
-| **Feb 2022 – Jun 2022** | Customer Service Executive | Startek — Commercial Bank PLC |
+| **Sep 2026 – now** | Associate Software Engineer | Healplace LLC |
+| **Mar 2026 – Sep 2026** | Junior Full Stack Developer | Healplace LLC |
+| **Jan 2026 – Jul 2026** | Operations Analyst (Associate, Collections) | HealthRecon Connect |
+| **Jul 2022 – Dec 2024** | Medical Scribe, Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
+| **Feb 2022 – Jun 2022** | Customer Service Executive | Startek, Commercial Bank PLC |
 
 ---
 
@@ -66,11 +70,11 @@ Four of them. All live, all clickable, no login needed.
 
 <br/>
 
-### 🌱 EcoHarvest — *rescuing food before it's thrown away*
+### 🌱 EcoHarvest: *rescuing food before it's thrown away*
 
 **[→ See it live](https://ecoharvest.nivakaran.dev)**
 
-Perfectly good food gets thrown out every day — because a bakery closed, a shop over-ordered, a date printed on a label passed. Meanwhile someone a few streets away would happily have bought it.
+Perfectly good food gets thrown out every day, because a bakery closed, a shop over-ordered, a date printed on a label passed. Meanwhile someone a few streets away would happily have bought it.
 
 EcoHarvest is a marketplace that connects the two. Suppliers list surplus food, buyers claim it cheaply, and less of it ends up in a bin. I added an AI assistant that answers customer questions on its own, and a system that can **recognise food from a photograph**.
 
@@ -78,31 +82,31 @@ EcoHarvest is a marketplace that connects the two. Suppliers list surplus food, 
 
 <br/>
 
-### 📦 Sparrow — *making "arriving Tuesday" mean something*
+### 📦 Sparrow: *making "arriving Tuesday" mean something*
 
 **[→ See it live](https://sparrow.nivakaran.dev)**
 
 When a courier tells you your parcel arrives Tuesday, that's usually an educated guess. Sparrow tries to make it a real prediction.
 
-It studies thousands of past deliveries — the route, the distance, the time of day, the conditions — and learns the patterns that actually determine when a parcel shows up. On top of that sits an **AI agent** that handles tracking questions by itself: it understands what you're asking, looks up the answer, and replies, without a human in the loop.
+It studies thousands of past deliveries (the route, the distance, the time of day, the conditions) and learns the patterns that actually determine when a parcel shows up. On top of that sits an **AI agent** that handles tracking questions by itself: it understands what you're asking, looks up the answer, and replies, without a human in the loop.
 
 <sub>*Under the hood: Random Forest and XGBoost ensemble for ETA prediction · LangGraph agent orchestration with Groq LLMs · Node.js consolidation platform · deployed on Hugging Face Spaces and Vercel.*</sub>
 
 <br/>
 
-### 📚 Book Recommender — *for when you don't know what you want to read*
+### 📚 Book Recommender: *for when you don't know what you want to read*
 
 **[→ Try it](https://nivakaran-book-recommendation.hf.space)**
 
 Search engines need you to know the answer before you ask. This one doesn't.
 
-Describe a feeling — restless, homesick, wanting something gentle — and it finds books that match. It works by teaching a computer to understand what a book is *about*, rather than just matching keywords in the title.
+Describe a feeling: restless, homesick, wanting something gentle, and it finds books that match. It works by teaching a computer to understand what a book is *about*, rather than just matching keywords in the title.
 
 <sub>*Under the hood: Hugging Face sentence embeddings, cosine similarity retrieval, Flask.*</sub>
 
 <br/>
 
-### 🐾 Cat / Dog / Person Classifier — *the one I built to learn*
+### 🐾 Cat / Dog / Person Classifier: *the one I built to learn*
 
 **[→ Try it](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
 
@@ -137,12 +141,12 @@ In plain English, that's four things:
 | | |
 |---|---|
 | 🧠 **Teaching machines** | Building models that recognise images, understand language, and make predictions. |
-| 🤖 **AI that acts** | Agents that don't just answer — they look things up, use tools, and complete tasks. |
+| 🤖 **AI that acts** | Agents that don't just answer. They look things up, use tools, and complete tasks. |
 | 🌐 **Websites and apps** | The part people actually see and touch. Front to back. |
 | 🗄️ **Data at scale** | Moving and processing large amounts of information reliably. |
 
 <details>
-<summary><b>🔬 For the engineers — the full technical breakdown</b></summary>
+<summary><b>🔬 For the engineers: the full technical breakdown</b></summary>
 
 <br/>
 
@@ -177,7 +181,7 @@ Trainable params: all of them
 Frozen params:    0
 ```
 
-**Sparrow's agent topology** — how a tracking query actually gets resolved:
+**Sparrow's agent topology**: how a tracking query actually gets resolved:
 
 ```mermaid
 flowchart LR
@@ -203,13 +207,13 @@ flowchart LR
 
 | Year | Certification |
 |------|---------------|
-| 2025 | Big Data Engineering Bootcamp — GCP & Azure |
-| 2025 | Agentic AI Bootcamp — LangGraph & LangChain |
+| 2025 | Big Data Engineering Bootcamp: GCP & Azure |
+| 2025 | Agentic AI Bootcamp: LangGraph & LangChain |
 | 2025 | Advanced ML, NLP & Deep Learning Bootcamp |
-| 2025 | Computer Vision Bootcamp — PyTorch & TensorFlow |
-| 2025 | Complete Node.js Developer — GraphQL & MongoDB |
+| 2025 | Computer Vision Bootcamp: PyTorch & TensorFlow |
+| 2025 | Complete Node.js Developer: GraphQL & MongoDB |
 | 2025 | Complete Machine Learning & Data Science Bootcamp |
-| 2024 | Complete Generative AI — LangChain & Hugging Face |
+| 2024 | Complete Generative AI: LangChain & Hugging Face |
 | 2024 | TensorFlow for Deep Learning |
 
 </details>
@@ -218,14 +222,14 @@ flowchart LR
 
 ## What I'm looking for 🎯
 
-I'm looking for my **first full-time role as an ML or AI engineer** — or an internship that could grow into one.
+I'm looking for my **first full-time role as an ML or AI engineer**, or an internship that could grow into one.
 
 I'd be especially glad to find:
 
 - 🤖 **Applied AI teams** building things that reach real users, not just papers
-- 🏗️ **Products where the model is only half the job** — the other half being making it fast, reliable and usable
+- 🏗️ **Products where the model is only half the job**: the other half being making it fast, reliable and usable
 - 🌍 **Open source projects** in machine learning, data engineering, or AI agents
-- ⚡ **Hackathons** — genuinely one of my favourite ways to spend a weekend
+- ⚡ **Hackathons**: genuinely one of my favourite ways to spend a weekend
 
 And honestly, the thing I want most is to work alongside **people who are better than me**, on something that matters. I learn fastest that way.
 
@@ -233,7 +237,7 @@ And honestly, the thing I want most is to work alongside **people who are better
 
 ## Recently 📡
 
-<sub>This section updates itself every six hours. If you're wondering how — a small program reads my GitHub activity and rewrites this part of the page automatically. It's a nice trick.</sub>
+<sub>This section updates itself every six hours. If you're wondering how: a small program reads my GitHub activity and rewrites this part of the page automatically. It's a nice trick.</sub>
 
 <!-- ACTIVITY:START -->
 ```console
@@ -282,7 +286,7 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 ## Say hello 💬
 
-I reply to everything, usually within a day. You don't need a reason — "I saw your parcel thing and had a question" is a perfectly good opening.
+I reply to everything, usually within a day. You don't need a reason. "I saw your parcel thing and had a question" is a perfectly good opening.
 
 <p align="center">
   <a href="mailto:nivakaran@hotmail.com"><b>nivakaran@hotmail.com</b></a> &nbsp;·&nbsp;
@@ -302,7 +306,7 @@ I reply to everything, usually within a day. You don't need a reason — "I saw 
 ```
 .
 ├── README.md                       # this page
-├── assets/                         # CI-generated graphics — do not edit
+├── assets/                         # CI-generated graphics, do not edit
 └── .github/
     ├── scripts/update_readme.py    # rewrites the "Recently" section
     └── workflows/
