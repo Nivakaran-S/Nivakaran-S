@@ -67,6 +67,14 @@ So now, whenever I build something, I ask the same question I asked in those job
 
 ---
 
+## Where I'm studying 🎓
+
+| When | Programme | Where |
+|------|-----------|-------|
+| **2023 – now** *(graduating 2027)* | B.Sc. in Information Technology, specialising in software engineering | Sri Lanka Institute of Information Technology (SLIIT) |
+
+---
+
 ## Things I've built 🛠️
 
 Four of them. All live, all clickable, no login needed.
