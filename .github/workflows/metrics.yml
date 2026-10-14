@@ -13,9 +13,6 @@ on:
     # 03:15 UTC daily == 08:45 Asia/Colombo
     - cron: "15 3 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write

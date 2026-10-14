@@ -118,10 +118,9 @@ Simple on purpose. I built the neural network from scratch rather than downloadi
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><h2>4</h2><sub>systems built and<br/>publicly deployed</sub></td>
-<td align="center" width="25%"><h2>8</h2><sub>certifications in AI,<br/>ML and data engineering</sub></td>
-<td align="center" width="25%"><h2>3</h2><sub>years of<br/>professional work</sub></td>
-<td align="center" width="25%"><h2>∞</h2><sub>things left<br/>to learn</sub></td>
+<td align="center" width="33%"><h2>4</h2><sub>systems built and<br/>publicly deployed</sub></td>
+<td align="center" width="33%"><h2>8</h2><sub>certifications in AI,<br/>ML and data engineering</sub></td>
+<td align="center" width="33%"><h2>3</h2><sub>years of<br/>professional work</sub></td>
 </tr>
 </table>
 
@@ -240,9 +239,16 @@ And honestly, the thing I want most is to work alongside **people who are better
 ```console
 nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
-  waiting for first CI run...
+  2026-10-14 11:55  push    J26-SE-325 (1 commit)
+  2026-10-14 08:58  push    J26-SE-325 (1 commit)
+  2026-10-14 08:25  push    J26-SE-325 (1 commit)
+  2026-10-14 08:23  push    J26-SE-325 (1 commit)
+  2026-10-13 20:48  push    J26-SE-325 (1 commit)
+  2026-10-13 09:55  push    J26-SE-325 (1 commit)
+  2026-10-12 04:26  push    portfolio-latest (1 commit)
+  2026-10-12 04:33  push    portfolio-latest (1 commit)
 
--- stream not yet synced --
+-- synced 2026-10-15 04:55 Asia/Colombo --
 ```
 <!-- ACTIVITY:END -->
 
@@ -272,24 +278,6 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
   <img src="./assets/metrics-habits.svg" alt="coding habits: when and how I work"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nivakaran-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=6" alt="github stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Nivakaran-S&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=6" alt="contribution streak"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivakaran-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=6&langs_count=10" alt="most used languages"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nivakaran-S&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=6" alt="weekly coding breakdown"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nivakaran-S&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivakaran-S&bg_color=0D1117&color=00FF41&line=00FF41&point=39D353&area=true&hide_border=true&radius=6" alt="contribution graph over time"/>
-</p>
-
 ---
 
 ## Say hello 💬
@@ -307,10 +295,6 @@ I reply to everything, usually within a day. You don't need a reason — "I saw 
 </p>
 
 <br/>
-
-<p align="center">
-  <sub><i>Thanks for reading all the way down. Genuinely — most people don't.</i></sub>
-</p>
 
 <details>
 <summary><sub>🔧 How this page builds itself</sub></summary>
