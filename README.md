@@ -127,7 +127,7 @@ Simple on purpose. I built the neural network from scratch rather than downloadi
 <tr>
 <td align="center" width="33%"><h2>4</h2><sub>systems built and<br/>publicly deployed</sub></td>
 <td align="center" width="33%"><h2>8</h2><sub>certifications in AI,<br/>ML and data engineering</sub></td>
-<td align="center" width="33%"><h2>3</h2><sub>years of<br/>professional work</sub></td>
+<td align="center" width="33%"><h2>5</h2><sub>years of<br/>professional work</sub></td>
 </tr>
 </table>
 
