@@ -36,7 +36,7 @@ I didn't start in a computer lab. I started on the receiving end of other people
 
 **As a medical scribe**, I documented doctors' appointments as they happened, working remotely with US cardiologists and other specialists. While the doctor examined a patient and talked through what they were finding, I wrote it down in real time: the symptoms, the diagnosis, the plan.
 
-**As an operations analyst**, I worked through the unglamorous end of a business: the accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
+**As an operations analyst in collections**, I worked through the unglamorous end of medical billing. I took claims from spreadsheets, researched why each one had been denied, then called the insurance companies and made the fix needed to collect the pending amount. The accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
 
 **As a process associate on a real estate research team**, I researched US properties and wrote up what an insurer would need to know: what a property covers, what threats it faces, and the detail that sets a baseline for judging the risk. The work was reading evidence closely and writing it down so someone else could act on it.
 
