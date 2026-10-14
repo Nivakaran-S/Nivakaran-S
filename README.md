@@ -77,7 +77,19 @@ So now, whenever I build something, I ask the same question I asked in those job
 
 ## Things I've built 🛠️
 
-Four of them. All live, all clickable, no login needed.
+Five of them. All clickable, no login needed.
+
+<br/>
+
+### 🫀 MedVerse: *sense the unseen*
+
+**[→ See it](https://nivakaran.dev/medverse)**
+
+Hospital wards are reactive. Vitals get spot-checked every few hours, and continuous monitoring is mostly an ICU privilege, so between checks a patient can deteriorate unseen. MedVerse is a clinical monitoring platform built to close that gap, from a wearable sensor at the bedside to the dashboard a clinician reads.
+
+I build it with **Team ADAGARD**, and it was selected into the **NIBM Neo Ventures** incubator. It's the project where my healthcare years and my engineering finally meet. The models are research artifacts trained on public datasets, not clinically validated, and the platform is built to say so: a CI check fails the build if an unvalidated model is ever shown as trustworthy.
+
+<sub>*Under the hood: custom cardiopulmonary vest and PCBs · ESP32-S3 firmware with on-device signal processing · about 8 models trained on public clinical benchmarks · FastAPI, TimescaleDB, MQTT and a LangGraph multi-agent layer · React dashboard and Flutter app.*</sub>
 
 <br/>
 
