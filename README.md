@@ -38,7 +38,9 @@ I didn't start in a computer lab. I started on the receiving end of other people
 
 **As an operations analyst**, I worked through the unglamorous end of a business: the accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
 
-Three very different jobs, one thing in common:
+**As a process associate on a real estate research team**, I researched US properties and wrote up what an insurer would need to know: what a property covers, what threats it faces, and the detail that sets a baseline for judging the risk. The work was reading evidence closely and writing it down so someone else could act on it.
+
+Four very different jobs, one thing in common:
 
 > **Most problems aren't technical problems. They're problems of attention.**
 >
@@ -59,6 +61,7 @@ So now, whenever I build something, I ask the same question I asked in those job
 | **Sep 2026 – now** | Associate Software Engineer | Healplace LLC |
 | **Mar 2026 – Sep 2026** | Junior Full Stack Developer | Healplace LLC |
 | **Jan 2026 – Jul 2026** | Operations Analyst (Associate, Collections) | HealthRecon Connect |
+| **Aug 2025 – Dec 2025** | Process Associate (real estate research) | Intelligent Image Management Inc. |
 | **Jul 2022 – Dec 2024** | Medical Scribe, Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
 | **Feb 2022 – Jun 2022** | Customer Service Executive | Startek, Commercial Bank PLC |
 
