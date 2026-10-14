@@ -34,7 +34,7 @@ I didn't start in a computer lab. I started on the receiving end of other people
 
 **In a bank's contact centre**, I learned that when someone is frustrated, they don't want a clever answer; they want to be understood first.
 
-**As a medical scribe**, I documented doctors' appointments as they happened, working remotely with US cardiologists and other specialists. While the doctor examined a patient and talked through what they were finding, I wrote it down in real time: the symptoms, the diagnosis, the plan.
+**As a medical scribe**, I documented doctors' appointments as they happened, working remotely with US cardiologists and other specialists. While the doctor examined a patient and talked through what they were finding, I wrote it down in real time: the symptoms, the diagnosis, the plan. I also did the medical billing for those visits: assigning the appropriate CPT codes and keeping the EHR complete, from appointment notes to lab results and other medical reports.
 
 **As an operations analyst in collections**, I worked through the unglamorous end of medical billing. I took claims from spreadsheets, researched why each one had been denied, then called the insurance companies and made the fix needed to collect the pending amount. The accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
 
@@ -62,7 +62,7 @@ So now, whenever I build something, I ask the same question I asked in those job
 | **Mar 2026 – Sep 2026** | Junior Full Stack Developer | Healplace LLC |
 | **Jan 2026 – Jul 2026** | Operations Analyst (Associate, Collections) | HealthRecon Connect |
 | **Aug 2025 – Dec 2025** | Process Associate (real estate research) | Intelligent Image Management Inc. |
-| **Jul 2022 – Dec 2024** | Medical Scribe, Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
+| **Jul 2022 – Dec 2024** | Medical Scribe and Medical Billing, Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
 | **Feb 2022 – Jun 2022** | Customer Service Executive | Startek, Commercial Bank PLC |
 
 ---
