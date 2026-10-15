@@ -1,9 +1,10 @@
-<h1 align="center">Nivakaran Shanmugabavan</h1>
-
-<p align="center">
-  <b>I build software that thinks.</b><br/>
-  Software engineer and AI builder in Colombo, Sri Lanka.
-</p>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/hero-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/hero-light.svg"/>
+    <img alt="Nivakaran Shanmugabavan. I build software that thinks." src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/hero-light.svg" width="100%"/>
+  </picture>
+</h1>
 
 <p align="center">
   <a href="https://nivakaran.dev">Portfolio</a> &nbsp;·&nbsp;
