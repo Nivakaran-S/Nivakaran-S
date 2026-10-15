@@ -1,5 +1,5 @@
 """Rewrite the block between <!-- ACTIVITY:START --> and <!-- ACTIVITY:END -->
-in README.md with a console-style log of recent public GitHub activity."""
+in README.md with a short list of recent public GitHub activity."""
 import json
 import os
 import re
@@ -33,43 +33,52 @@ def describe(ev):
     t = ev["type"]
     if t == "PushEvent":
         n = p.get("size") or len(p.get("commits", [])) or 1
-        return f"push    {repo} ({n} commit{'s' if n != 1 else ''})"
+        return f"pushed {n} commit{'s' if n != 1 else ''} to **{repo}**"
     if t == "PullRequestEvent":
-        return f"pr      {repo} {p['action']} #{p['number']}"
+        return f"{p['action']} pull request #{p['number']} in **{repo}**"
     if t == "IssuesEvent":
-        return f"issue   {repo} {p['action']} #{p['issue']['number']}"
+        return f"{p['action']} issue #{p['issue']['number']} in **{repo}**"
     if t == "CreateEvent":
-        return f"create  {repo} {p.get('ref_type', '')}"
+        return f"created a {p.get('ref_type', 'repository')} in **{repo}**"
     if t == "ReleaseEvent":
-        return f"release {repo} {p['release']['tag_name']}"
+        return f"released {p['release']['tag_name']} of **{repo}**"
     if t == "WatchEvent":
-        return f"star    {repo}"
+        return f"starred **{repo}**"
     return None
 
 
 def build():
-    events = api(f"/users/{USER}/events/public?per_page=50")
-    rows = []
+    events = api(f"/users/{USER}/events/public?per_page=100")
+    pushes = {}  # (day, repo) -> commit count, so a busy day is one line
+    order = []
     for ev in events:
-        d = describe(ev)
         # skip the profile repo itself: its CI commits are noise
-        if not d or ev["repo"]["name"].lower() == f"{USER}/{USER}".lower():
+        if ev["repo"]["name"].lower() == f"{USER}/{USER}".lower():
             continue
         ts = datetime.fromisoformat(ev["created_at"].replace("Z", "+00:00")).astimezone(COLOMBO)
-        rows.append(f"  {ts:%Y-%m-%d %H:%M}  {d}")
-        if len(rows) == LINES:
-            break
+        day = f"{ts:%d %b %Y}"
+        repo = ev["repo"]["name"].split("/")[-1]
+        if ev["type"] == "PushEvent":
+            key = (day, repo)
+            if key not in pushes:
+                pushes[key] = 0
+                order.append(("push", day, repo))
+            pushes[key] += ev["payload"].get("size") or len(ev["payload"].get("commits", [])) or 1
+        else:
+            d = describe(ev)
+            if d:
+                order.append(("other", day, d))
+    rows = []
+    for kind, day, x in order[:LINES]:
+        if kind == "push":
+            n = pushes[(day, x)]
+            rows.append(f"- {day}, pushed {n} commit{'s' if n != 1 else ''} to **{x}**")
+        else:
+            rows.append(f"- {day}, {x}")
     if not rows:
-        rows = ["  no public activity in the last 90 days"]
-    stamp = datetime.now(COLOMBO).strftime("%Y-%m-%d %H:%M")
-    body = "\n".join(rows)
-    return (
-        "```console\n"
-        "nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log\n\n"
-        f"{body}\n\n"
-        f"-- synced {stamp} Asia/Colombo --\n"
-        "```"
-    )
+        rows = ["- No public activity in the last 90 days."]
+    stamp = datetime.now(COLOMBO).strftime("%d %b %Y, %H:%M")
+    return "\n".join(rows) + f"\n\n<sub>Updated {stamp} (Asia/Colombo).</sub>"
 
 
 def main():

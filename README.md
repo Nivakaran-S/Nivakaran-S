@@ -2,206 +2,123 @@
 
 <p align="center">
   <b>I build software that thinks.</b><br/>
-  Sri Lanka to anywhere with a good problem.
+  Software engineer and AI builder in Colombo, Sri Lanka.
 </p>
 
 <p align="center">
-  <a href="https://nivakaran.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41&labelColor=000000" alt="Portfolio, nivakaran.dev"/></a>
-  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn profile"/></a>
-  <a href="mailto:nivakaran@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=00FF41&labelColor=000000" alt="Email Nivakaran"/></a>
-  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" alt="GitHub profile"/></a>
+  <a href="https://nivakaran.dev">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/nivakaran">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:nivakaran@hotmail.com">Email</a>
 </p>
 
-<p align="center">
-  <i>Full-stack developer and AI engineer.<br/>
-  I take ideas that only exist in someone's head and turn them into things people can actually use.</i>
-</p>
+<br/>
 
----
+I started on the receiving end of other people's software: a bank's contact centre, a medical scribe desk, a claims-collections queue. Most problems there weren't technical. They were problems of attention, and bad tools spent it. I became an engineer to fix that, and I try to ship things people can actually use.
 
-## Hello
+## Now
 
-I'm a final-stage **Information Technology** student at **SLIIT** in Sri Lanka, specialising in software engineering, and I spend most of my time building **artificial intelligence systems that solve ordinary problems**.
+- **Associate Software Engineer** at Healplace, building healthcare software.
+- **MedVerse**, a clinical monitoring platform I build with Team ADAGARD, selected into the NIBM Neo Ventures incubator.
+- **B.Sc. in Information Technology** at SLIIT, graduating in 2027.
 
-Not the science-fiction kind. The kind that tells you honestly when your parcel will arrive. The kind that recognises a photo of a meal. The kind that reads what you're in the mood for and finds you a book.
+## Selected work
 
-If you're not technical, here's the one thing worth knowing: **I don't stop at the demo.** A lot of AI work lives in a research notebook and never leaves. Everything on this page is online right now, and you can click it and use it yourself.
+### MedVerse
 
----
+**Continuous monitoring for hospital wards.**
 
-## How I got here
+Wards are reactive: vitals are spot-checked every few hours, so a patient can deteriorate between checks. MedVerse takes a reading from a wearable sensor at the bedside to the dashboard a clinician reads. The models are research artifacts trained on public datasets, not clinically validated, and the build fails if an unvalidated model is ever shown as trustworthy.
 
-I didn't start in a computer lab. I started on the receiving end of other people's software.
+ESP32-S3 firmware with on-device signal processing, about 8 models, FastAPI with TimescaleDB and MQTT, a LangGraph agent layer, a React dashboard and a Flutter app.
+
+[Read about MedVerse](https://nivakaran.dev/medverse)
+
+### Sparrow
+
+**Delivery estimates you can plan around.**
+
+Sparrow learns from thousands of past deliveries to predict when a parcel will actually arrive, and an AI agent answers tracking questions on its own, with no human in the loop.
+
+Random Forest and XGBoost for ETA prediction, a LangGraph agent on Groq, Node.js services.
+
+[Read about Sparrow](https://nivakaran.dev/work/sparrow) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/Sparrow-Agent)
+
+### EcoHarvest
+
+**Surplus food finds a buyer before it finds a bin.**
+
+A marketplace where suppliers list surplus food and buyers claim it cheaply. It includes an AI assistant for customer questions and a model that recognises food from a photo.
+
+Next.js, Node.js, MongoDB, and EfficientNet-B0 fine-tuned on Food-101.
+
+[See EcoHarvest live](https://eco-harvest-frontend.vercel.app) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/EcoHarvest)
+
+### Book Recommender
+
+**Describe a feeling, get a book.**
+
+Search engines need you to know the answer first. This one matches what a book is about, not the words in its title, so "homesick" or "something gentle" works.
+
+Sentence embeddings, cosine similarity, Flask.
+
+[Try the Book Recommender](https://nivakaran-book-recommendation.hf.space) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/Book-Recommendation)
+
+### Cat / Dog / Person Classifier
+
+**A neural network built from scratch, to understand it.**
+
+I wrote the convolutional network myself instead of downloading a trained one, because I wanted to know why these models see what they see.
+
+PyTorch and Gradio.
+
+[Try the classifier](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/Cat-Dog-Person-Classifier)
+
+## Experience
+
+| When | Role | Where |
+|------|------|-------|
+| Mar 2026 – now | Junior Full Stack Developer, promoted to Associate Software Engineer in Sep 2026 | Healplace LLC |
+| Jan 2026 – Jul 2026 | Operations Analyst (Associate, Collections) | HealthRecon Connect |
+| Aug 2025 – Dec 2025 | Process Associate (real estate research) | Intelligent Image Management Inc. |
+| Jul 2022 – Dec 2024 | Medical Scribe and Medical Billing, Documentation Specialist | Medsource Healthcare LLC |
+| Feb 2022 – Jun 2022 | Customer Service Executive | Startek, Commercial Bank PLC |
+
+<details>
+<summary><b>How I got here</b></summary>
+
+<br/>
 
 **In a bank's contact centre**, I learned that when someone is frustrated, they don't want a clever answer; they want to be understood first.
 
 **As a medical scribe**, I documented doctors' appointments as they happened, working remotely with US cardiologists and other specialists. While the doctor examined a patient and talked through what they were finding, I wrote it down in real time: the symptoms, the diagnosis, the plan. I also did the medical billing for those visits: assigning the appropriate CPT codes and keeping the EHR complete, from appointment notes to lab results and other medical reports.
 
-**As an operations analyst in collections**, I worked through the unglamorous end of medical billing. I took claims from spreadsheets, researched why each one had been denied, then called the insurance companies and made the fix needed to collect the pending amount. The accounts nobody had chased, the records that didn't reconcile, the patterns hiding in a spreadsheet too long for anyone to read by eye.
+**As a process associate on a real estate research team**, I researched US properties and wrote up what an insurer would need to know: what a property covers, what threats it faces, and the detail that sets a baseline for judging the risk.
 
-**As a process associate on a real estate research team**, I researched US properties and wrote up what an insurer would need to know: what a property covers, what threats it faces, and the detail that sets a baseline for judging the risk. The work was reading evidence closely and writing it down so someone else could act on it.
+**As an operations analyst in collections**, I worked through the unglamorous end of medical billing. I took claims from spreadsheets, researched why each one had been denied, then called the insurance companies and made the fix needed to collect the pending amount.
 
-Four very different jobs, one thing in common:
+> A doctor has fifteen minutes with a patient. An analyst has a thousand rows and an afternoon. Every minute lost wrestling with a clumsy tool is a minute not spent on the thing that actually mattered.
 
-> **Most problems aren't technical problems. They're problems of attention.**
->
-> A doctor has fifteen minutes with a patient. An analyst has a thousand rows and an afternoon. Every minute lost wrestling with a clumsy tool is a minute not spent on the thing that actually mattered. That's the real cost of bad software: not time, but attention, in the moments where it counts.
+In March 2026 I joined **Healplace** as a Junior Full Stack Developer, building software for the same healthcare world I used to work inside. By September I was promoted to **Associate Software Engineer**. Whenever I build something, I ask the same question I asked in those jobs: *who is on the other end of this, and what do they actually need from me?*
 
-I moved into engineering because I got tired of noticing that and not being able to fix it.
-
-In March 2026 I joined **Healplace** as a Junior Full Stack Developer, building software for the same healthcare world I used to work inside. By September I was promoted to **Associate Software Engineer**, which is where I am now. I still study at SLIIT alongside it, and the side projects below are where I try things before they go near production.
-
-So now, whenever I build something, I ask the same question I asked in those jobs: *who is on the other end of this, and what do they actually need from me?*
-
----
-
-## Where I've worked
-
-| When | Role | Where |
-|------|------|-------|
-| **Sep 2026 – now** | Associate Software Engineer | Healplace LLC |
-| **Mar 2026 – Sep 2026** | Junior Full Stack Developer | Healplace LLC |
-| **Jan 2026 – Jul 2026** | Operations Analyst (Associate, Collections) | HealthRecon Connect |
-| **Aug 2025 – Dec 2025** | Process Associate (real estate research) | Intelligent Image Management Inc. |
-| **Jul 2022 – Dec 2024** | Medical Scribe and Medical Billing, Documentation Specialist | Medsource Healthcare LLC *(remote, US providers)* |
-| **Feb 2022 – Jun 2022** | Customer Service Executive | Startek, Commercial Bank PLC |
-
----
-
-## Where I'm studying
-
-| When | Programme | Where |
-|------|-----------|-------|
-| **2023 – now** *(graduating 2027)* | B.Sc. in Information Technology, specialising in software engineering | Sri Lanka Institute of Information Technology (SLIIT) |
-
----
-
-## Things I've built
-
-Five of them. All clickable, no login needed.
-
-<br/>
-
-### MedVerse: *sense the unseen*
-
-**[Read about MedVerse](https://nivakaran.dev/medverse)**
-
-Hospital wards are reactive. Vitals get spot-checked every few hours, and continuous monitoring is mostly an ICU privilege, so between checks a patient can deteriorate unseen. MedVerse is a clinical monitoring platform built to close that gap, from a wearable sensor at the bedside to the dashboard a clinician reads.
-
-I build it with **Team ADAGARD**, and it was selected into the **NIBM Neo Ventures** incubator. It's the project where my healthcare years and my engineering finally meet. The models are research artifacts trained on public datasets, not clinically validated, and the platform is built to say so: a CI check fails the build if an unvalidated model is ever shown as trustworthy.
-
-**Under the hood:** custom cardiopulmonary vest and PCBs · ESP32-S3 firmware with on-device signal processing · about 8 models trained on public clinical benchmarks · FastAPI, TimescaleDB, MQTT and a LangGraph multi-agent layer · React dashboard and Flutter app.
-
-<br/>
-
-### EcoHarvest: *rescuing food before it's thrown away*
-
-**[See EcoHarvest live](https://eco-harvest-frontend.vercel.app)**
-
-Perfectly good food gets thrown out every day, because a bakery closed, a shop over-ordered, a date printed on a label passed. Meanwhile someone a few streets away would happily have bought it.
-
-EcoHarvest is a marketplace that connects the two. Suppliers list surplus food, buyers claim it cheaply, and less of it ends up in a bin. I added an AI assistant that answers customer questions on its own, and a system that can **recognise food from a photograph**.
-
-**Under the hood:** Next.js, TypeScript, Node.js, MongoDB · EfficientNet-B0 vision model fine-tuned on the Food-101 dataset · agentic AI for customer support.
-
-<br/>
-
-### Sparrow: *making "arriving Tuesday" mean something*
-
-**[Read about Sparrow](https://nivakaran.dev/work/sparrow)**
-
-When a courier tells you your parcel arrives Tuesday, that's usually an educated guess. Sparrow tries to make it a real prediction.
-
-It studies thousands of past deliveries (the route, the distance, the time of day, the conditions) and learns the patterns that actually determine when a parcel shows up. On top of that sits an **AI agent** that handles tracking questions by itself: it understands what you're asking, looks up the answer, and replies, without a human in the loop.
-
-**Under the hood:** Random Forest and XGBoost ensemble for ETA prediction · LangGraph agent orchestration with Groq LLMs · Node.js consolidation platform · deployed on Hugging Face Spaces and Vercel.
-
-<br/>
-
-### Book Recommender: *for when you don't know what you want to read*
-
-**[Try the Book Recommender](https://nivakaran-book-recommendation.hf.space)**
-
-Search engines need you to know the answer before you ask. This one doesn't.
-
-Describe a feeling: restless, homesick, wanting something gentle, and it finds books that match. It works by teaching a computer to understand what a book is *about*, rather than just matching keywords in the title.
-
-**Under the hood:** Hugging Face sentence embeddings, cosine similarity retrieval, Flask.
-
-<br/>
-
-### Cat / Dog / Person Classifier: *the one I built to learn*
-
-**[Try the classifier](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
-
-Upload a photo; it tells you whether it's a cat, a dog, or a person.
-
-Simple on purpose. I built the neural network from scratch rather than downloading one that already worked, because I wanted to understand *why* these things see what they see. Every project after this one was easier for it.
-
-**Under the hood:** custom convolutional neural network in PyTorch, served through Gradio.
-
----
-
-## In numbers
-
-<p align="center">
-  <b>4</b> systems built and publicly deployed &nbsp;·&nbsp; <b>8</b> certifications in AI, ML and data engineering &nbsp;·&nbsp; <b>5</b> years of professional work
-</p>
-
----
+</details>
 
 ## What I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,ts,js,nextjs,react,nodejs,java,kotlin,mongodb,postgres,kafka,docker,aws,gcp,azure&theme=dark&perline=10" alt="Languages and tools: Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, TypeScript, JavaScript, Next.js, React, Node.js, Java, Kotlin, MongoDB, PostgreSQL, Kafka, Docker, AWS, GCP, Azure"/>
-</p>
-
-In plain English, that's four things:
-
 | | |
 |---|---|
-| **Teaching machines** | Building models that recognise images, understand language, and make predictions. |
-| **AI that acts** | Agents that don't just answer. They look things up, use tools, and complete tasks. |
-| **Websites and apps** | The part people actually see and touch. Front to back. |
-| **Data at scale** | Moving and processing large amounts of information reliably. |
+| **Machine learning** | Models that recognise images, understand language, and make predictions. |
+| **Agents** | AI that looks things up, uses tools, and completes tasks. |
+| **Web and mobile** | The part people see and touch, front to back. |
+| **Data** | Moving and processing large amounts of information reliably. |
 
 <details>
-<summary><b>For the engineers: the full technical breakdown</b></summary>
+<summary><b>Full toolkit, certifications, and Sparrow's agent design</b></summary>
 
 <br/>
 
-```python
->>> from nivakaran import Engineer
->>> print(Engineer(pretrained=True))
+Python, TypeScript, JavaScript, Java, Kotlin. PyTorch, TensorFlow, scikit-learn, Hugging Face. LangChain, LangGraph, Groq. FastAPI, Flask, Node.js, Next.js, React, Flutter. MongoDB, PostgreSQL, Kafka, Airflow, MLflow. Docker, AWS, GCP, Azure.
 
-Engineer(
-  (languages): ModuleList(
-    Python, TypeScript, JavaScript, Java, Kotlin
-  )
-  (ml): Sequential(
-    (0): Frameworks(PyTorch, TensorFlow, Scikit-learn, HuggingFace)
-    (1): Agentic(LangChain, LangGraph, Groq)
-    (2): Classical(RandomForest, XGBoost, CosineSimilarity)
-    (3): Vision(CNN, EfficientNet-B0, transfer_learning=True)
-  )
-  (data): Pipeline(
-    stores   = [MongoDB, PostgreSQL, Oracle],
-    compute  = [Hadoop, Spark, Kafka],
-    orchestr = [Airflow, MLflow, Databricks],
-  )
-  (serving): Sequential(
-    (0): Backend(FastAPI, Flask, Node.js)
-    (1): Frontend(Next.js, React Native)
-    (2): Infra(Docker, AWS, GCP, Azure, Vercel, HF Spaces)
-  )
-)
-
-Total params:     8 certifications · 4 systems in production
-Trainable params: all of them
-Frozen params:    0
-```
-
-**Sparrow's agent topology**: how a tracking query actually gets resolved:
+**Sparrow's agent design**, showing how a tracking query gets resolved:
 
 ```mermaid
 flowchart LR
@@ -216,14 +133,9 @@ flowchart LR
     E --> H
     H -->|no| B
     H -->|yes| I([response])
-
-    classDef n fill:#0D1117,stroke:#00FF41,color:#C9D1D9,stroke-width:1px
-    classDef t fill:#0D1117,stroke:#39D353,color:#39D353,stroke-width:1px
-    class A,B,C,D,E,H,I n
-    class F,G t
 ```
 
-**Certifications, most recent first:**
+**Certifications**
 
 | Year | Certification |
 |------|---------------|
@@ -238,99 +150,27 @@ flowchart LR
 
 </details>
 
----
+## Open to
 
-## What I'm looking for
-
-I'm looking for my **first full-time role as an ML or AI engineer**, or an internship that could grow into one.
-
-I'd be especially glad to find:
-
-- **Applied AI teams** building things that reach real users, not just papers
-- **Products where the model is only half the job**: the other half being making it fast, reliable and usable
-- **Open source projects** in machine learning, data engineering, or AI agents
-- **Hackathons**: genuinely one of my favourite ways to spend a weekend
-
-And honestly, the thing I want most is to work alongside **people who are better than me**, on something that matters. I learn fastest that way.
-
----
+Applied AI teams building things that reach real users, open source projects in machine learning and agents, and hackathons. Remote work anywhere.
 
 ## Recently
 
-<sub>This section updates itself every six hours. If you're wondering how: a small program reads my GitHub activity and rewrites this part of the page automatically. It's a nice trick.</sub>
-
 <!-- ACTIVITY:START -->
-```console
-nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
+- 14 Oct 2026, pushed 4 commits to **J26-SE-325**
+- 13 Oct 2026, pushed 2 commits to **J26-SE-325**
+- 12 Oct 2026, pushed 5 commits to **portfolio-latest**
+- 04 Oct 2026, pushed 13 commits to **Adagard_Lodestar**
+- 03 Oct 2026, pushed 14 commits to **Adagard_Lodestar**
+- 02 Oct 2026, pushed 19 commits to **Adagard_Lodestar**
+- 27 Sep 2026, pushed 7 commits to **SSD-Assignment**
+- 27 Sep 2026, merged pull request #13 in **SSD-Assignment**
 
-  2026-10-14 11:55  push    J26-SE-325 (1 commit)
-  2026-10-14 08:58  push    J26-SE-325 (1 commit)
-  2026-10-14 08:25  push    J26-SE-325 (1 commit)
-  2026-10-14 08:23  push    J26-SE-325 (1 commit)
-  2026-10-13 20:48  push    J26-SE-325 (1 commit)
-  2026-10-13 09:55  push    J26-SE-325 (1 commit)
-  2026-10-12 04:26  push    portfolio-latest (1 commit)
-  2026-10-12 04:33  push    portfolio-latest (1 commit)
-
--- synced 2026-10-15 04:56 Asia/Colombo --
-```
+<sub>Updated 15 Oct 2026, 06:03 (Asia/Colombo).</sub>
 <!-- ACTIVITY:END -->
-
----
-
-## My year, as a game
-
-<p align="center"><sub>Every green square is a day I wrote code. The snake eats them.</sub></p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/snake-output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/snake-output/snake-light.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/snake-output/snake-dark.svg"/>
-  </picture>
-</p>
-
----
-
-## The full picture
-
-<p align="center">
-  <img src="./assets/metrics.svg" alt="overview: activity, community, repositories, languages"/>
-</p>
-
----
 
 ## Say hello
 
-I reply to everything, usually within a day. You don't need a reason. "I saw your parcel thing and had a question" is a perfectly good opening.
+I reply to everything, usually within a day. [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nivakaran) &nbsp;·&nbsp; [nivakaran.dev](https://nivakaran.dev)
 
-<p align="center">
-  <a href="mailto:nivakaran@hotmail.com"><b>nivakaran@hotmail.com</b></a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/nivakaran"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://nivakaran.dev"><b>nivakaran.dev</b></a>
-</p>
-
-<p align="center">
-  <sub>Colombo, Sri Lanka · open to remote work anywhere</sub>
-</p>
-
-<br/>
-
-<details>
-<summary><sub>How this page builds itself</sub></summary>
-
-```
-.
-├── README.md                       # this page
-├── assets/                         # CI-generated graphics, do not edit
-└── .github/
-    ├── scripts/update_readme.py    # rewrites the "Recently" section
-    └── workflows/
-        ├── snake.yml               # daily    → snake animation
-        ├── metrics.yml             # daily    → statistics graphics
-        └── update-readme.yml       # 6-hourly → activity feed
-```
-
-Most GitHub profiles pull their graphics from free third-party services that rate-limit and go down. Mine are generated by scheduled jobs in this repository and served from it, so the page renders even when someone else's server is having a bad day.
-
-</details>
+<sub>The Recently list is rewritten every six hours by a GitHub Action in this repository.</sub>
