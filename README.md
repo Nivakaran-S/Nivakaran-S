@@ -104,7 +104,7 @@ In March 2026 I joined **Healplace** as a Junior Full Stack Developer, building 
 
 ## What I work with
 
-| | |
+| Area | What it means |
 |---|---|
 | **Machine learning** | Models that recognise images, understand language, and make predictions. |
 | **Agents** | AI that looks things up, uses tools, and completes tasks. |
