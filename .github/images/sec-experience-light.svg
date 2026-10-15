@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="96" viewBox="0 0 1280 96" role="img" aria-label="Experience">
+  <defs>
+    <clipPath id="card"><rect width="1280" height="96" rx="24"/></clipPath>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0062CC"/><stop offset="0.5" stop-color="#7B2FBE"/><stop offset="1" stop-color="#C2185B"/></linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1280" height="96" fill="#F5F5F7"/>
+    <g filter="url(#soft)"><circle cx="1180" cy="86" r="120" fill="#0A84FF" opacity="0.28"/><circle cx="1090" cy="10" r="100" fill="#FF2D55" opacity="0.2"/><circle cx="1240" cy="48" r="90" fill="#AF52DE" opacity="0.2"/></g>
+    <text x="48" y="62" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.5" fill="#1D1D1F">Experience</text>
+  </g>
+</svg>

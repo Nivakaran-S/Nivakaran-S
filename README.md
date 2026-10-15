@@ -16,65 +16,93 @@
 
 I started on the receiving end of other people's software: a bank's contact centre, a medical scribe desk, a claims-collections queue. Most problems there weren't technical. They were problems of attention, and bad tools spent it. I became an engineer to fix that, and I try to ship things people can actually use.
 
-## Now
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-now-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-now-light.svg"/>
+    <img alt="Now" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-now-light.svg" width="100%"/>
+  </picture>
+</h2>
 
 - **Associate Software Engineer** at Healplace, building healthcare software.
 - **MedVerse**, a clinical monitoring platform I build with Team ADAGARD, selected into the NIBM Neo Ventures incubator.
 - **B.Sc. in Information Technology** at SLIIT, graduating in 2027.
 
-## Selected work
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-work-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-work-light.svg"/>
+    <img alt="Selected work" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-work-light.svg" width="100%"/>
+  </picture>
+</h2>
 
-### MedVerse
-
-**Continuous monitoring for hospital wards.**
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-medverse-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-medverse-light.svg"/>
+    <img alt="MedVerse. Continuous monitoring for hospital wards. ESP32-S3 firmware · FastAPI · TimescaleDB · MQTT · LangGraph · React · Flutter" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-medverse-light.svg" width="100%"/>
+  </picture>
+</h3>
 
 Wards are reactive: vitals are spot-checked every few hours, so a patient can deteriorate between checks. MedVerse takes a reading from a wearable sensor at the bedside to the dashboard a clinician reads. The models are research artifacts trained on public datasets, not clinically validated, and the build fails if an unvalidated model is ever shown as trustworthy.
 
-ESP32-S3 firmware with on-device signal processing, about 8 models, FastAPI with TimescaleDB and MQTT, a LangGraph agent layer, a React dashboard and a Flutter app.
-
 [Read about MedVerse](https://nivakaran.dev/medverse)
 
-### Sparrow
-
-**Delivery estimates you can plan around.**
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-sparrow-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-sparrow-light.svg"/>
+    <img alt="Sparrow. Delivery estimates you can plan around. Random Forest and XGBoost · LangGraph on Groq · Node.js" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-sparrow-light.svg" width="100%"/>
+  </picture>
+</h3>
 
 Sparrow learns from thousands of past deliveries to predict when a parcel will actually arrive, and an AI agent answers tracking questions on its own, with no human in the loop.
 
-Random Forest and XGBoost for ETA prediction, a LangGraph agent on Groq, Node.js services.
-
 [Read about Sparrow](https://nivakaran.dev/work/sparrow) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/Sparrow-Agent)
 
-### EcoHarvest
-
-**Surplus food finds a buyer before it finds a bin.**
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-ecoharvest-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-ecoharvest-light.svg"/>
+    <img alt="EcoHarvest. Surplus food finds a buyer before it finds a bin. Next.js · Node.js · MongoDB · EfficientNet-B0 on Food-101" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-ecoharvest-light.svg" width="100%"/>
+  </picture>
+</h3>
 
 A marketplace where suppliers list surplus food and buyers claim it cheaply. It includes an AI assistant for customer questions and a model that recognises food from a photo.
 
-Next.js, Node.js, MongoDB, and EfficientNet-B0 fine-tuned on Food-101.
-
 [See EcoHarvest live](https://eco-harvest-frontend.vercel.app) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/EcoHarvest)
 
-### Book Recommender
-
-**Describe a feeling, get a book.**
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-books-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-books-light.svg"/>
+    <img alt="Book Recommender. Describe a feeling, get a book. Sentence embeddings · cosine similarity · Flask" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-books-light.svg" width="100%"/>
+  </picture>
+</h3>
 
 Search engines need you to know the answer first. This one matches what a book is about, not the words in its title, so "homesick" or "something gentle" works.
 
-Sentence embeddings, cosine similarity, Flask.
-
 [Try the Book Recommender](https://nivakaran-book-recommendation.hf.space) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/Book-Recommendation)
 
-### Cat / Dog / Person Classifier
-
-**A neural network built from scratch, to understand it.**
+<h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-classifier-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-classifier-light.svg"/>
+    <img alt="Cat / Dog / Person Classifier. A neural network built from scratch, to understand it. PyTorch · Gradio" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/card-classifier-light.svg" width="100%"/>
+  </picture>
+</h3>
 
 I wrote the convolutional network myself instead of downloading a trained one, because I wanted to know why these models see what they see.
 
-PyTorch and Gradio.
-
 [Try the classifier](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system) &nbsp;·&nbsp; [Source](https://github.com/Nivakaran-S/Cat-Dog-Person-Classifier)
 
-## Experience
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-experience-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-experience-light.svg"/>
+    <img alt="Experience" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-experience-light.svg" width="100%"/>
+  </picture>
+</h2>
 
 | When | Role | Where |
 |------|------|-------|
@@ -103,7 +131,13 @@ In March 2026 I joined **Healplace** as a Junior Full Stack Developer, building 
 
 </details>
 
-## What I work with
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-skills-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-skills-light.svg"/>
+    <img alt="What I work with" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-skills-light.svg" width="100%"/>
+  </picture>
+</h2>
 
 | Area | What it means |
 |---|---|
@@ -151,11 +185,23 @@ flowchart LR
 
 </details>
 
-## Open to
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-open-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-open-light.svg"/>
+    <img alt="Open to" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-open-light.svg" width="100%"/>
+  </picture>
+</h2>
 
 Applied AI teams building things that reach real users, open source projects in machine learning and agents, and hackathons. Remote work anywhere.
 
-## Recently
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-recently-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-recently-light.svg"/>
+    <img alt="Recently" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-recently-light.svg" width="100%"/>
+  </picture>
+</h2>
 
 <!-- ACTIVITY:START -->
 - 14 Oct 2026, pushed 4 commits to **J26-SE-325**
@@ -170,7 +216,13 @@ Applied AI teams building things that reach real users, open source projects in 
 <sub>Updated 15 Oct 2026, 06:04 (Asia/Colombo).</sub>
 <!-- ACTIVITY:END -->
 
-## Say hello
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-hello-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-hello-light.svg"/>
+    <img alt="Say hello" src="https://raw.githubusercontent.com/Nivakaran-S/Nivakaran-S/main/.github/images/sec-hello-light.svg" width="100%"/>
+  </picture>
+</h2>
 
 I reply to everything, usually within a day. [nivakaran@hotmail.com](mailto:nivakaran@hotmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nivakaran) &nbsp;·&nbsp; [nivakaran.dev](https://nivakaran.dev)
 
