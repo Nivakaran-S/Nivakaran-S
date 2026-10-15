@@ -1,14 +1,15 @@
 <h1 align="center">Nivakaran Shanmugabavan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=600&color=00FF41&center=true&vCenter=true&width=680&lines=I+build+software+that+thinks.;Sri+Lanka+%E2%86%92+anywhere+with+a+good+problem.;Currently%3A+AI%2C+and+everything+around+it." alt="intro"/>
+  <b>I build software that thinks.</b><br/>
+  Sri Lanka to anywhere with a good problem.
 </p>
 
 <p align="center">
-  <a href="https://nivakaran.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41&labelColor=000000"/></a>
-  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
-  <a href="mailto:nivakaran@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=00FF41&labelColor=000000"/></a>
-  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000"/></a>
+  <a href="https://nivakaran.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41&labelColor=000000" alt="Portfolio, nivakaran.dev"/></a>
+  <a href="https://linkedin.com/in/nivakaran"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn profile"/></a>
+  <a href="mailto:nivakaran@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=00FF41&labelColor=000000" alt="Email Nivakaran"/></a>
+  <a href="https://github.com/Nivakaran-S"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" alt="GitHub profile"/></a>
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 ---
 
-## Hello 👋
+## Hello
 
 I'm a final-stage **Information Technology** student at **SLIIT** in Sri Lanka, specialising in software engineering, and I spend most of my time building **artificial intelligence systems that solve ordinary problems**.
 
@@ -28,7 +29,7 @@ If you're not technical, here's the one thing worth knowing: **I don't stop at t
 
 ---
 
-## How I got here 💼 → 💻
+## How I got here
 
 I didn't start in a computer lab. I started on the receiving end of other people's software.
 
@@ -54,7 +55,7 @@ So now, whenever I build something, I ask the same question I asked in those job
 
 ---
 
-## Where I've worked 🗂️
+## Where I've worked
 
 | When | Role | Where |
 |------|------|-------|
@@ -67,7 +68,7 @@ So now, whenever I build something, I ask the same question I asked in those job
 
 ---
 
-## Where I'm studying 🎓
+## Where I'm studying
 
 | When | Programme | Where |
 |------|-----------|-------|
@@ -75,101 +76,97 @@ So now, whenever I build something, I ask the same question I asked in those job
 
 ---
 
-## Things I've built 🛠️
+## Things I've built
 
 Five of them. All clickable, no login needed.
 
 <br/>
 
-### 🫀 MedVerse: *sense the unseen*
+### MedVerse: *sense the unseen*
 
-**[→ See it](https://nivakaran.dev/medverse)**
+**[Read about MedVerse](https://nivakaran.dev/medverse)**
 
 Hospital wards are reactive. Vitals get spot-checked every few hours, and continuous monitoring is mostly an ICU privilege, so between checks a patient can deteriorate unseen. MedVerse is a clinical monitoring platform built to close that gap, from a wearable sensor at the bedside to the dashboard a clinician reads.
 
 I build it with **Team ADAGARD**, and it was selected into the **NIBM Neo Ventures** incubator. It's the project where my healthcare years and my engineering finally meet. The models are research artifacts trained on public datasets, not clinically validated, and the platform is built to say so: a CI check fails the build if an unvalidated model is ever shown as trustworthy.
 
-<sub>*Under the hood: custom cardiopulmonary vest and PCBs · ESP32-S3 firmware with on-device signal processing · about 8 models trained on public clinical benchmarks · FastAPI, TimescaleDB, MQTT and a LangGraph multi-agent layer · React dashboard and Flutter app.*</sub>
+**Under the hood:** custom cardiopulmonary vest and PCBs · ESP32-S3 firmware with on-device signal processing · about 8 models trained on public clinical benchmarks · FastAPI, TimescaleDB, MQTT and a LangGraph multi-agent layer · React dashboard and Flutter app.
 
 <br/>
 
-### 🌱 EcoHarvest: *rescuing food before it's thrown away*
+### EcoHarvest: *rescuing food before it's thrown away*
 
-**[→ See it live](https://ecoharvest.nivakaran.dev)**
+**[See EcoHarvest live](https://ecoharvest.nivakaran.dev)**
 
 Perfectly good food gets thrown out every day, because a bakery closed, a shop over-ordered, a date printed on a label passed. Meanwhile someone a few streets away would happily have bought it.
 
 EcoHarvest is a marketplace that connects the two. Suppliers list surplus food, buyers claim it cheaply, and less of it ends up in a bin. I added an AI assistant that answers customer questions on its own, and a system that can **recognise food from a photograph**.
 
-<sub>*Under the hood: Next.js, TypeScript, Node.js, MongoDB · EfficientNet-B0 vision model fine-tuned on the Food-101 dataset · agentic AI for customer support.*</sub>
+**Under the hood:** Next.js, TypeScript, Node.js, MongoDB · EfficientNet-B0 vision model fine-tuned on the Food-101 dataset · agentic AI for customer support.
 
 <br/>
 
-### 📦 Sparrow: *making "arriving Tuesday" mean something*
+### Sparrow: *making "arriving Tuesday" mean something*
 
-**[→ See it live](https://sparrow.nivakaran.dev)**
+**[See Sparrow live](https://sparrow.nivakaran.dev)**
 
 When a courier tells you your parcel arrives Tuesday, that's usually an educated guess. Sparrow tries to make it a real prediction.
 
 It studies thousands of past deliveries (the route, the distance, the time of day, the conditions) and learns the patterns that actually determine when a parcel shows up. On top of that sits an **AI agent** that handles tracking questions by itself: it understands what you're asking, looks up the answer, and replies, without a human in the loop.
 
-<sub>*Under the hood: Random Forest and XGBoost ensemble for ETA prediction · LangGraph agent orchestration with Groq LLMs · Node.js consolidation platform · deployed on Hugging Face Spaces and Vercel.*</sub>
+**Under the hood:** Random Forest and XGBoost ensemble for ETA prediction · LangGraph agent orchestration with Groq LLMs · Node.js consolidation platform · deployed on Hugging Face Spaces and Vercel.
 
 <br/>
 
-### 📚 Book Recommender: *for when you don't know what you want to read*
+### Book Recommender: *for when you don't know what you want to read*
 
-**[→ Try it](https://nivakaran-book-recommendation.hf.space)**
+**[Try the Book Recommender](https://nivakaran-book-recommendation.hf.space)**
 
 Search engines need you to know the answer before you ask. This one doesn't.
 
 Describe a feeling: restless, homesick, wanting something gentle, and it finds books that match. It works by teaching a computer to understand what a book is *about*, rather than just matching keywords in the title.
 
-<sub>*Under the hood: Hugging Face sentence embeddings, cosine similarity retrieval, Flask.*</sub>
+**Under the hood:** Hugging Face sentence embeddings, cosine similarity retrieval, Flask.
 
 <br/>
 
-### 🐾 Cat / Dog / Person Classifier: *the one I built to learn*
+### Cat / Dog / Person Classifier: *the one I built to learn*
 
-**[→ Try it](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
+**[Try the classifier](https://nivakaran-classification-gradio-kncvu.hf.space/?__theme=system)**
 
 Upload a photo; it tells you whether it's a cat, a dog, or a person.
 
 Simple on purpose. I built the neural network from scratch rather than downloading one that already worked, because I wanted to understand *why* these things see what they see. Every project after this one was easier for it.
 
-<sub>*Under the hood: custom convolutional neural network in PyTorch, served through Gradio.*</sub>
+**Under the hood:** custom convolutional neural network in PyTorch, served through Gradio.
 
 ---
 
-## In numbers 📊
-
-<table align="center">
-<tr>
-<td align="center" width="33%"><h2>4</h2><sub>systems built and<br/>publicly deployed</sub></td>
-<td align="center" width="33%"><h2>8</h2><sub>certifications in AI,<br/>ML and data engineering</sub></td>
-<td align="center" width="33%"><h2>5</h2><sub>years of<br/>professional work</sub></td>
-</tr>
-</table>
-
----
-
-## What I work with 🧰
+## In numbers
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,ts,js,nextjs,react,nodejs,java,kotlin,mongodb,postgres,kafka,docker,aws,gcp,azure&theme=dark&perline=10" alt="tools"/>
+  <b>4</b> systems built and publicly deployed &nbsp;·&nbsp; <b>8</b> certifications in AI, ML and data engineering &nbsp;·&nbsp; <b>5</b> years of professional work
+</p>
+
+---
+
+## What I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,ts,js,nextjs,react,nodejs,java,kotlin,mongodb,postgres,kafka,docker,aws,gcp,azure&theme=dark&perline=10" alt="Languages and tools: Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, TypeScript, JavaScript, Next.js, React, Node.js, Java, Kotlin, MongoDB, PostgreSQL, Kafka, Docker, AWS, GCP, Azure"/>
 </p>
 
 In plain English, that's four things:
 
 | | |
 |---|---|
-| 🧠 **Teaching machines** | Building models that recognise images, understand language, and make predictions. |
-| 🤖 **AI that acts** | Agents that don't just answer. They look things up, use tools, and complete tasks. |
-| 🌐 **Websites and apps** | The part people actually see and touch. Front to back. |
-| 🗄️ **Data at scale** | Moving and processing large amounts of information reliably. |
+| **Teaching machines** | Building models that recognise images, understand language, and make predictions. |
+| **AI that acts** | Agents that don't just answer. They look things up, use tools, and complete tasks. |
+| **Websites and apps** | The part people actually see and touch. Front to back. |
+| **Data at scale** | Moving and processing large amounts of information reliably. |
 
 <details>
-<summary><b>🔬 For the engineers: the full technical breakdown</b></summary>
+<summary><b>For the engineers: the full technical breakdown</b></summary>
 
 <br/>
 
@@ -243,22 +240,22 @@ flowchart LR
 
 ---
 
-## What I'm looking for 🎯
+## What I'm looking for
 
 I'm looking for my **first full-time role as an ML or AI engineer**, or an internship that could grow into one.
 
 I'd be especially glad to find:
 
-- 🤖 **Applied AI teams** building things that reach real users, not just papers
-- 🏗️ **Products where the model is only half the job**: the other half being making it fast, reliable and usable
-- 🌍 **Open source projects** in machine learning, data engineering, or AI agents
-- ⚡ **Hackathons**: genuinely one of my favourite ways to spend a weekend
+- **Applied AI teams** building things that reach real users, not just papers
+- **Products where the model is only half the job**: the other half being making it fast, reliable and usable
+- **Open source projects** in machine learning, data engineering, or AI agents
+- **Hackathons**: genuinely one of my favourite ways to spend a weekend
 
 And honestly, the thing I want most is to work alongside **people who are better than me**, on something that matters. I learn fastest that way.
 
 ---
 
-## Recently 📡
+## Recently
 
 <sub>This section updates itself every six hours. If you're wondering how: a small program reads my GitHub activity and rewrites this part of the page automatically. It's a nice trick.</sub>
 
@@ -281,7 +278,7 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 ---
 
-## My year, as a game 🐍
+## My year, as a game
 
 <p align="center"><sub>Every green square is a day I wrote code. The snake eats them.</sub></p>
 
@@ -295,7 +292,7 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 ---
 
-## The full picture 📈
+## The full picture
 
 <p align="center">
   <img src="./assets/metrics.svg" alt="overview: activity, community, repositories, languages"/>
@@ -307,7 +304,7 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 ---
 
-## Say hello 💬
+## Say hello
 
 I reply to everything, usually within a day. You don't need a reason. "I saw your parcel thing and had a question" is a perfectly good opening.
 
@@ -318,13 +315,13 @@ I reply to everything, usually within a day. You don't need a reason. "I saw you
 </p>
 
 <p align="center">
-  <sub>📍 Colombo, Sri Lanka · open to remote work anywhere</sub>
+  <sub>Colombo, Sri Lanka · open to remote work anywhere</sub>
 </p>
 
 <br/>
 
 <details>
-<summary><sub>🔧 How this page builds itself</sub></summary>
+<summary><sub>How this page builds itself</sub></summary>
 
 ```
 .
