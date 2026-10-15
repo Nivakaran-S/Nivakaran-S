@@ -7,8 +7,8 @@
   <g clip-path="url(#card)">
     <rect width="1280" height="176" fill="#1C1C1E"/>
     <g filter="url(#soft)"><circle cx="1180" cy="166" r="120" fill="#0A84FF" opacity="0.36"/><circle cx="1090" cy="10" r="100" fill="#FF2D55" opacity="0.26"/><circle cx="1240" cy="88" r="90" fill="#AF52DE" opacity="0.28"/></g>
-    <text x="48" y="70" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.5" fill="#F5F5F7">Cat / Dog / Person Classifier</text>
-    <text x="48" y="116" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="-0.5" fill="url(#ink)">A neural network built from scratch, to understand it.</text>
-    <text x="48" y="152" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="-0.5" fill="#A1A1A6">PyTorch · Gradio</text>
+    <text x="48" y="66" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-0.5" fill="#F5F5F7">Cat / Dog / Person Classifier</text>
+    <text x="48" y="114" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-0.5" fill="url(#ink)">A neural network built from scratch, to understand it.</text>
+    <text x="48" y="154" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" letter-spacing="-0.5" fill="#A1A1A6">PyTorch · Gradio</text>
   </g>
 </svg>
