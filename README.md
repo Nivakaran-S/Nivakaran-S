@@ -96,7 +96,7 @@ I build it with **Team ADAGARD**, and it was selected into the **NIBM Neo Ventur
 
 ### EcoHarvest: *rescuing food before it's thrown away*
 
-**[See EcoHarvest live](https://ecoharvest.nivakaran.dev)**
+**[See EcoHarvest live](https://eco-harvest-frontend.vercel.app)**
 
 Perfectly good food gets thrown out every day, because a bakery closed, a shop over-ordered, a date printed on a label passed. Meanwhile someone a few streets away would happily have bought it.
 
@@ -108,7 +108,7 @@ EcoHarvest is a marketplace that connects the two. Suppliers list surplus food, 
 
 ### Sparrow: *making "arriving Tuesday" mean something*
 
-**[See Sparrow live](https://sparrow.nivakaran.dev)**
+**[Read about Sparrow](https://nivakaran.dev/work/sparrow)**
 
 When a courier tells you your parcel arrives Tuesday, that's usually an educated guess. Sparrow tries to make it a real prediction.
 
@@ -296,10 +296,6 @@ nivakaran-s@github:~$ tail -n 8 /var/log/git/activity.log
 
 <p align="center">
   <img src="./assets/metrics.svg" alt="overview: activity, community, repositories, languages"/>
-</p>
-
-<p align="center">
-  <img src="./assets/metrics-habits.svg" alt="coding habits: when and how I work"/>
 </p>
 
 ---
